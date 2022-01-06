@@ -85,6 +85,7 @@
 ## GO
 - [Download Go for Windows](https://go.dev/doc/install)
   - $ go version
+  - go run arrays.go
 
 - [Learn Data Structures and Algorithms with Golang(2019)](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
   - [GITHUB](https://github.com/packtpublishing/learn-data-structures-and-algorithms-with-golang)
@@ -92,7 +93,11 @@
 
 ## Ruby on Rail
 
-# RUST
+# [RUST](https://www.rust-lang.org/)
+- Rust is installed and managed by the `rustup` tool
+- On Windows, download and run rustup-init.exe
+- [下載與安裝](https://forge.rust-lang.org/infra/other-installation-methods.html)
 - [Rust for Absolute Beginners: Learn Rust in 4 Hours Video]()
+- [Rust 實戰：從入門到精通 (Beginning Rust: From Novice to Professional) Carlo Milanesi(2021)](https://www.tenlong.com.tw/products/9787111683674)
 - [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
   - [GITHUB](https://github.com/packtpublishing/hands-on-data-structures-and-algorithms-with-rust)
