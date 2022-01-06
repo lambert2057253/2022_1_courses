@@ -83,4 +83,5 @@
 
 ## Ruby on Rail
 
-## RUST
+# RUST
+- [Hands-On Data Structures and Algorithms with Rust]()
