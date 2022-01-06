@@ -15,20 +15,23 @@
   - [GITHUB](https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux)
 - [uhub/awesome-c](https://github.com/uhub/awesome-c)
 - [oz123/awesome-c](https://github.com/oz123/awesome-c)
-## 基本程式開發
-
-## 系統程式(System programming)
-## 網路程式(network Programming)
-
-## 資料結構與演算法
+- 基本程式開發
+- 系統程式(System programming)
+- 網路程式(network Programming)
+- 資料結構與演算法
 
 
 ## linux binary analysis and security
-
+- [Advanced C and C++ Compiling (Paperback)](https://www.tenlong.com.tw/products/9781430266679)
+- [Binary Analysis Cookbook (2019)]()
+- [Practical Binary Analysis](https://nostarch.com/binaryanalysis)
+  - [教科書(簡中譯本)二進制分析實戰](https://www.tenlong.com.tw/products/9787115556936)
+  - [官方網址](https://nostarch.com/binaryanalysis) 
+  - [程式與VM下載](https://practicalbinaryanalysis.com/)
 
 ## 逆向工程
-
-
+- [Mastering Reverse Engineering: Re-engineer your ethical hacking skills(Reginald Wong,2018)]()
+- [Ghidra Software Reverse Engineering for Beginners: Analyze, identify, and avoid malicious code and potential threats in your networks and systems(2021)]()
 ## PWN
 
 
