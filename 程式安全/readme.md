@@ -9,6 +9,8 @@
   - [GITHUB](https://github.com/PacktPublishing/Learn-C-Programming)
 - [Practical C Programming(2020)](https://www.packtpub.com/product/practical-c-programming/9781838641108)
   - [GITHUB](https://github.com/packtpublishing/practical-c-programming)
+- [C語言程序設計 : 現代方法, 2/e (修訂版)  C Programming: A Modern Approach, 2/e K. N. King 呂秀鋒，黃倩譯](https://www.tenlong.com.tw/products/9787115565198)
+  - [程式下載](http://knking.com/books/c2/index.html)
 - [Hands-On Network Programming with C(2019)](https://www.packtpub.com/product/hands-on-network-programming-with-c/9781789349863)
   - [GITHUB](https://github.com/packtpublishing/hands-on-network-programming-with-c)
 - [Hands-On System Programming with Linux(2018)](https://www.packtpub.com/product/hands-on-system-programming-with-linux/9781788998475)
@@ -81,10 +83,16 @@
 
 
 ## GO
+- [Download Go for Windows](https://go.dev/doc/install)
+  - $ go version
 
+- [Learn Data Structures and Algorithms with Golang(2019)](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
+  - [GITHUB](https://github.com/packtpublishing/learn-data-structures-and-algorithms-with-golang)
 - [Go 黑帽子 : 滲透測試編程之道 [美]湯姆·斯蒂爾 （Tom Steele） 克裡斯·帕頓（Chris Patten） 丹·科特曼（Dan Kottmann） 著 賈玉彬 朱錢杭 譯]()
 
 ## Ruby on Rail
 
 # RUST
-- [Hands-On Data Structures and Algorithms with Rust]()
+- [Rust for Absolute Beginners: Learn Rust in 4 Hours Video]()
+- [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
+  - [GITHUB](https://github.com/packtpublishing/hands-on-data-structures-and-algorithms-with-rust)
