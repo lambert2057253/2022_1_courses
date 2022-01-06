@@ -118,6 +118,8 @@
   - [GITHUB](https://github.com/packtpublishing/mastering-rust)
 - [Rust Programming Cookbook(2019)](https://www.packtpub.com/product/rust-programming-cookbook/9781789530667)
   - [GITHUB](https://github.com/packtpublishing/rust-programming-cookbook)
+- [Rust Programming By Example(2018)](https://www.packtpub.com/product/rust-programming-by-example/9781788390637)
+  - [GITHUB](https://github.com/packtpublishing/rust-programming-by-example)
 - [Network Programming with Rust(2018)](https://www.packtpub.com/product/network-programming-with-rust/9781788624893)
   - [GITHUB](https://github.com/packtpublishing/network-programming-with-rust)
 - [Practical System Programming for Rust Developers(2020)](https://www.packtpub.com/product/practical-system-programming-for-rust-developers/9781800560963) 
