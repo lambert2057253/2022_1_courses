@@ -1,12 +1,18 @@
-# 程式安全 ==> 如何分析程式的漏洞與安全修補
+# 程式安全(本課程) ==> 如何分析程式的漏洞與安全修補
+# 安全程式開發 ==> 如何開發具有安全的程式
+
 
 # C 程式開發
-- [Free eBook - Extreme C()]()
+- [Free eBook - Extreme C(2019)](https://www.packtpub.com/free-ebook/extreme-c/9781789343625)
+  - [GITHUB](https://github.com/packtpublishing/extreme-c)
 - [Learn C Programming](https://www.packtpub.com/product/learn-c-programming/9781789349917)
   - [GITHUB](https://github.com/PacktPublishing/Learn-C-Programming)
+- [Practical C Programming(2020)](https://www.packtpub.com/product/practical-c-programming/9781838641108)
+  - [GITHUB](https://github.com/packtpublishing/practical-c-programming)
 - [Hands-On Network Programming with C(2019)](https://www.packtpub.com/product/hands-on-network-programming-with-c/9781789349863)
   - [GITHUB](https://github.com/packtpublishing/hands-on-network-programming-with-c)
-
+- [Hands-On System Programming with Linux(2018)](https://www.packtpub.com/product/hands-on-system-programming-with-linux/9781788998475)
+  - [GITHUB](https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux)
 - [uhub/awesome-c](https://github.com/uhub/awesome-c)
 - [oz123/awesome-c](https://github.com/oz123/awesome-c)
 ## 基本程式開發
@@ -36,12 +42,39 @@
 - [經典 C++ Primer, 5/e (繁體中文版) Stanley B. Lippman等 黃銘偉 碁峰資訊](https://www.tenlong.com.tw/products/9789865021726)
 - [Expert C++(2020)](https://www.packtpub.com/product/expert-c/9781838552657)
   - [GITHUB](https://github.com/PacktPublishing/Expert-CPP)
-- [C++ 標準庫－學習教本與參考工具, 2/e (精裝) (The C++ Standard Library: A Tutorial and Reference, 2/e) Nicolai M. Josuttis 著、侯捷 譯(2014)](https://www.tenlong.com.tw/products/9789863474395)
-- [高手才用 C語言：Windows C/C++ 加密解密實戰(朱晨冰、李建英)](https://www.tenlong.com.tw/products/9789860776348)
-
-
+- [Advanced C++ Programming Cookbook(2020)](https://www.packtpub.com/product/advanced-c-programming-cookbook/9781838559915)
+  - [GITHUB](https://github.com/packtpublishing/advanced-cpp-programming-cookbook) 
 - [C 和 C++ 安全編碼(原書第2版) (Secure Coding in C and C++, 2/e) 华章程序员书库:C和C++安全编码(原书第2版) 塞克德 (Robert C.Seacord)](https://www.tenlong.com.tw/products/9787111442790)
 
+
+### C++ 標準庫
+- [C++ 標準庫－學習教本與參考工具, 2/e (精裝) (The C++ Standard Library: A Tutorial and Reference, 2/e) Nicolai M. Josuttis 著、侯捷 譯(2014)](https://www.tenlong.com.tw/products/9789863474395)
+- [Mastering the C++17 STL(2017)](https://www.packtpub.com/product/mastering-the-c-17-stl/9781787126824)
+  - [GITHUB](https://github.com/packtpublishing/mastering-the-cpp17-stl)
+
+### C++資料結構與演算法
+
+- [C++ Data Structures and Algorithms(2018)](https://www.packtpub.com/product/c-data-structures-and-algorithms/9781788835213)
+  - [GITHUB](https://github.com/packtpublishing/-c-8-data-structures-and-algorithms)
+
+
+### C++應用
+- [C++ System Programming Cookbook(2020)](https://www.packtpub.com/product/c-system-programming-cookbook/9781838646554)
+  - [GITHUB](https://github.com/packtpublishing/c-system-programming-cookbook)
+- [Hands-On Machine Learning with C++(2020)](https://www.packtpub.com/product/hands-on-machine-learning-with-c/9781789955330)
+  - [GITHUB](https://github.com/packtpublishing/hands-on-machine-learning-with-cpp)
+  - Shogun library
+
+- [高手才用 C語言：Windows C/C++ 加密解密實戰(朱晨冰、李建英)](https://www.tenlong.com.tw/products/9789860776348)
+
+- [Building Computer Vision Projects with OpenCV 4 and C++(2019)](https://www.packtpub.com/product/building-computer-vision-projects-with-opencv-4-and-c/9781838644673)
+  - [GITHUB](https://github.com/packtpublishing/hands-on-machine-learning-with-cpp)
+
+
+## C#
+
+- [Learn C# Programming(2020)](https://www.packtpub.com/product/learn-c-programming/9781789805864)
+  - [GITHUB](https://github.com/PacktPublishing/Learn-C-Sharp-Programming)
 
 
 ## GO
