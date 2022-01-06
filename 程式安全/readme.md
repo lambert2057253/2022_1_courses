@@ -89,7 +89,7 @@
 
 - [Learn Data Structures and Algorithms with Golang(2019)](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
   - [GITHUB](https://github.com/packtpublishing/learn-data-structures-and-algorithms-with-golang)
-- [Go 黑帽子 : 滲透測試編程之道 [美]湯姆·斯蒂爾 （Tom Steele） 克裡斯·帕頓（Chris Patten） 丹·科特曼（Dan Kottmann） 著 賈玉彬 朱錢杭 譯]()
+- [Go 黑帽子 : 滲透測試編程之道 Tom Steele,Chris Patten,Dan Kottmann著 賈玉彬 朱錢杭 譯](https://www.tenlong.com.tw/products/9787302588245)
 
 ## Ruby on Rail
 
