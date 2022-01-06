@@ -118,5 +118,7 @@
   - [GITHUB](https://github.com/packtpublishing/mastering-rust)
 - [Network Programming with Rust(2018)](https://www.packtpub.com/product/network-programming-with-rust/9781788624893)
   - [GITHUB](https://github.com/packtpublishing/network-programming-with-rust)
+- [Practical System Programming for Rust Developers(2020)](https://www.packtpub.com/product/practical-system-programming-for-rust-developers/9781800560963) 
+  - [GITHUB](https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers) 
 - [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
   - [GITHUB](https://github.com/packtpublishing/hands-on-data-structures-and-algorithms-with-rust)
