@@ -116,6 +116,8 @@
 - [Rust 實戰：從入門到精通 (Beginning Rust: From Novice to Professional) Carlo Milanesi(2021)](https://www.tenlong.com.tw/products/9787111683674)
 - [Mastering Rust - Second Edition(2019)](https://www.packtpub.com/product/mastering-rust-second-edition/9781789346572)
   - [GITHUB](https://github.com/packtpublishing/mastering-rust)
+- [Rust Programming Cookbook(2019)](https://www.packtpub.com/product/rust-programming-cookbook/9781789530667)
+  - [GITHUB](https://github.com/packtpublishing/rust-programming-cookbook)
 - [Network Programming with Rust(2018)](https://www.packtpub.com/product/network-programming-with-rust/9781788624893)
   - [GITHUB](https://github.com/packtpublishing/network-programming-with-rust)
 - [Practical System Programming for Rust Developers(2020)](https://www.packtpub.com/product/practical-system-programming-for-rust-developers/9781800560963) 
