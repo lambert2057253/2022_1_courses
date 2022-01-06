@@ -111,7 +111,10 @@
 - Rust is installed and managed by the `rustup` tool
 - On Windows, download and run rustup-init.exe
 - [下載與安裝](https://forge.rust-lang.org/infra/other-installation-methods.html)
-- [Rust for Absolute Beginners: Learn Rust in 4 Hours Video]()
+- [Rust for Absolute Beginners: Learn Rust in 4 Hours Video(2021)](https://www.packtpub.com/product/rust-for-absolute-beginners-learn-rust-in-4-hours-video/9781801818179)
+  - [GITHUB](https://github.com/PacktPublishing/Rust-for-Beginners-Learn-Rust-in-4-Hours)
 - [Rust 實戰：從入門到精通 (Beginning Rust: From Novice to Professional) Carlo Milanesi(2021)](https://www.tenlong.com.tw/products/9787111683674)
+- [Mastering Rust - Second Edition(2019)](https://www.packtpub.com/product/mastering-rust-second-edition/9781789346572)
+  - [GITHUB](https://github.com/packtpublishing/mastering-rust)
 - [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
   - [GITHUB](https://github.com/packtpublishing/hands-on-data-structures-and-algorithms-with-rust)
