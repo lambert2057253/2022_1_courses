@@ -25,17 +25,28 @@
 
 ## linux binary analysis and security
 - [Advanced C and C++ Compiling (Paperback)](https://www.tenlong.com.tw/products/9781430266679)
-- [Binary Analysis Cookbook (2019)]()
 - [Practical Binary Analysis](https://nostarch.com/binaryanalysis)
   - [教科書(簡中譯本)二進制分析實戰](https://www.tenlong.com.tw/products/9787115556936)
   - [官方網址](https://nostarch.com/binaryanalysis) 
   - [程式與VM下載](https://practicalbinaryanalysis.com/)
+- [Binary Analysis Cookbook (2019)](https://www.packtpub.com/product/binary-analysis-cookbook/9781789807608)
+  - [GITHUB](https://github.com/packtpublishing/binary-analysis-cookbook)
 
-## 逆向工程
+## 逆向工程(Reverse Engineering)
+- [加密與解密, 4/e 加密与解密（第4版)段鋼](https://www.tenlong.com.tw/products/9787121336928)
 - [Mastering Reverse Engineering: Re-engineer your ethical hacking skills(Reginald Wong,2018)]()
 - [Ghidra Software Reverse Engineering for Beginners: Analyze, identify, and avoid malicious code and potential threats in your networks and systems(2021)]()
-## PWN
+- [C++ 反彙編與逆向分析技術揭秘, 2/e](https://www.tenlong.com.tw/products/9787111689911)
+## Malware Analysis 
+- [Malware Analysis Techniques(2021)](https://www.packtpub.com/product/malware-analysis-techniques/9781839212277)
+  - [GITHUB](https://github.com/PacktPublishing/Malware-Analysis-Techniques)
+- [Mastering Malware Analysis(2019)](https://www.packtpub.com/product/mastering-malware-analysis/9781789610789)
+  - [GITHUB](https://github.com/packtpublishing/mastering-malware-analysis)
+- [Learning Malware Analysis(2018)](https://www.packtpub.com/product/learning-malware-analysis/9781788392501)
+- [Windows Malware Analysis Essentials(2015)](https://www.packtpub.com/product/windows-malware-analysis-essentials/9781785281518)
 
+## PWN
+- [駭客們好自為之：CTF 大賽 PWN 奪旗技術大展(2021)](https://www.tenlong.com.tw/products/9789860776034)
 
 ## 安全程式開發 ==> 如何開發具有安全的程式
 
@@ -92,6 +103,9 @@
 - [Go 黑帽子 : 滲透測試編程之道 Tom Steele,Chris Patten,Dan Kottmann著 賈玉彬 朱錢杭 譯](https://www.tenlong.com.tw/products/9787302588245)
 
 ## Ruby on Rail
+- [Ruby on Rails應用開發最強教科書 (日)太田智彬//寺下翔太//手塚亮(2021)](https://www.tenlong.com.tw/products/9787515364155)
+
+
 
 # [RUST](https://www.rust-lang.org/)
 - Rust is installed and managed by the `rustup` tool
