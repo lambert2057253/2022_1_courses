@@ -131,6 +131,7 @@
     - 也可以學習MYSQL  [MongoDB](https://onecompiler.com/mongodb)  [Redis](https://onecompiler.com/redis)
   - [Online Ruby Compiler](https://www.onlinegdb.com/online_ruby_compiler)
   - [Execute Ruby Online (Ruby v2.4.1)](https://www.tutorialspoint.com/execute_ruby_online.php)
+- [The Ruby Workshop(2019)](https://www.packtpub.com/product/the-ruby-workshop/9781838642365) 
 - [Ruby on Rails應用開發最強教科書 (日)太田智彬//寺下翔太//手塚亮(2021)](https://www.tenlong.com.tw/products/9787515364155)
 
 
