@@ -45,6 +45,17 @@
 - [Learning Malware Analysis(2018)](https://www.packtpub.com/product/learning-malware-analysis/9781788392501)
 - [Windows Malware Analysis Essentials(2015)](https://www.packtpub.com/product/windows-malware-analysis-essentials/9781785281518)
 
+#### Malware Analysis:Qiling
+- Qiling is an advanced binary emulation framework written in python and based on Unicorn engine.
+- It supports multiple platform (Windows, MacOS, Linux, BSD, UEFI) and multiple architectures (X86, X86_64, Arm, Arm64, MIPS).
+- Qiling is designed as a higher level framework, that leverages Unicorn to emulate CPU instructions
+- but Qiling understands OS as it has executable format loaders (for PE, MachO & ELF at the moment), dynamic linkers (so we can load & relocate shared libraries), syscall & IO handlers. 
+- For this reason, Qiling can run executable binaries that normally runs in native OS.
+- [Qiling Documentation](https://docs.qiling.io/en/latest/)
+- [Qiling For Malware Analysis: Part 1](https://n1ght-w0lf.github.io/tutorials/qiling-for-malware-analysis-part-1/)
+- [Qiling For Malware Analysis: Part 2](https://n1ght-w0lf.github.io/tutorials/qiling-for-malware-analysis-part-2/)
+
+
 ## PWN
 - [駭客們好自為之：CTF 大賽 PWN 奪旗技術大展(2021)](https://www.tenlong.com.tw/products/9789860776034)
 
