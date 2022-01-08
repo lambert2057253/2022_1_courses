@@ -37,6 +37,8 @@
 - [Mastering Reverse Engineering: Re-engineer your ethical hacking skills(Reginald Wong,2018)]()
 - [Ghidra Software Reverse Engineering for Beginners: Analyze, identify, and avoid malicious code and potential threats in your networks and systems(2021)]()
 - [C++ 反彙編與逆向分析技術揭秘, 2/e](https://www.tenlong.com.tw/products/9787111689911)
+
+
 ## Malware Analysis 
 - [Malware Analysis Techniques(2021)](https://www.packtpub.com/product/malware-analysis-techniques/9781839212277)
   - [GITHUB](https://github.com/PacktPublishing/Malware-Analysis-Techniques)
@@ -44,6 +46,8 @@
   - [GITHUB](https://github.com/packtpublishing/mastering-malware-analysis)
 - [Learning Malware Analysis(2018)](https://www.packtpub.com/product/learning-malware-analysis/9781788392501)
 - [Windows Malware Analysis Essentials(2015)](https://www.packtpub.com/product/windows-malware-analysis-essentials/9781785281518)
+
+
 
 #### Malware Analysis:Qiling
 - Qiling is an advanced binary emulation framework written in python and based on Unicorn engine.
@@ -55,6 +59,10 @@
 - [Qiling For Malware Analysis: Part 1](https://n1ght-w0lf.github.io/tutorials/qiling-for-malware-analysis-part-1/)
 - [Qiling For Malware Analysis: Part 2](https://n1ght-w0lf.github.io/tutorials/qiling-for-malware-analysis-part-2/)
 
+### Malware Analysis: 範例分析
+- [Deep Analysis of RogueRobin Trojan (DarkHydrus APT)](https://n1ght-w0lf.github.io/malware%20analysis/roguerobin-trojan/)
+- [Deep Analysis of Phobos Ransomware](https://n1ght-w0lf.github.io/malware%20analysis/phobos-ransomware/)
+- [Deep Analysis of KSLØT Keylogger (Turla APT)](https://n1ght-w0lf.github.io/malware%20analysis/ksl0t-keylogger/)
 
 ## PWN
 - [駭客們好自為之：CTF 大賽 PWN 奪旗技術大展(2021)](https://www.tenlong.com.tw/products/9789860776034)
