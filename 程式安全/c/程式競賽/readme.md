@@ -1,5 +1,4 @@
 
-
 ## [打下好基礎－程式設計與演算法競賽入門經典 劉汝佳 著、H&C 譯(2014)](https://www.tenlong.com.tw/products/9789863473114)
 ```
 Part I 語言篇
