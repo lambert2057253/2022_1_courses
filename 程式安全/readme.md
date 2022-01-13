@@ -10,6 +10,16 @@
 - Ruby Security
 
 # C 程式開發
+- 使用Windows版visual studio code開發 C程式
+  - [How to Download and Install Visual Studio Code ( VS Code ) on Windows 10](https://www.youtube.com/watch?v=JGsyJI8XG0Y)
+  - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
+  - [(微軟)Configure VS Code for Microsoft C++](https://code.visualstudio.com/docs/cpp/config-msvc)
+  - [(微軟)Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
+  - [(微軟)C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+- 使用Linux版visual studio code開發 C程式
+  - [Download Visual Studio Code](https://code.visualstudio.com/download) 
+  - [Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux)
+  - [How to install Visual Studio Code on Ubuntu Linux](https://www.youtube.com/watch?v=uYE0XrM-VZA)
 - [Free eBook - Extreme C(2019)](https://www.packtpub.com/free-ebook/extreme-c/9781789343625)
   - [GITHUB](https://github.com/packtpublishing/extreme-c)
 - [Learn C Programming](https://www.packtpub.com/product/learn-c-programming/9781789349917)
