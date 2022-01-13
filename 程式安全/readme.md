@@ -13,7 +13,10 @@
 
 # C 程式開發
 - [Visual Studio code官方說明文獻](https://code.visualstudio.com/docs)
+  - [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo) 
   - Snyk Vulnerability Scanner 
+  - [How to Install MinGW | GCC Toolset for C and C++ Programming | Setting Path variable on Windows 10](https://www.youtube.com/watch?v=guM4XS43m4I)
+  - [How to set up VS Code for C++ and make your First Program? + How I use AI to help me code faster](https://www.youtube.com/watch?v=YgKnzIV4uME)
 - 使用Windows版visual studio code開發 C程式
   - [How to Download and Install Visual Studio Code ( VS Code ) on Windows 10](https://www.youtube.com/watch?v=JGsyJI8XG0Y)
   - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
