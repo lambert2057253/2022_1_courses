@@ -12,6 +12,7 @@
 - Ruby Security
 
 # C 程式開發
+- [官方說明文獻](https://code.visualstudio.com/docs)
 - 使用Windows版visual studio code開發 C程式
   - [How to Download and Install Visual Studio Code ( VS Code ) on Windows 10](https://www.youtube.com/watch?v=JGsyJI8XG0Y)
   - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
