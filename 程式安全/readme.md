@@ -1,9 +1,13 @@
-# 從程式開發到城市安全
+# 從程式開發到程式安全  From coding to Security
 - 程式安全(本課程) ==> 如何分析程式的漏洞與安全修補
   - 原始碼檢測
   - Fuzzer 
-- 安全程式開發 ==> 如何開發具有安全的程式
+- 安全程式開發(Secure coding) ==> 如何開發具有安全的程式
 
+# Topics
+- c security
+- Python Security
+- Ruby Security
 
 # C 程式開發
 - [Free eBook - Extreme C(2019)](https://www.packtpub.com/free-ebook/extreme-c/9781789343625)
