@@ -138,7 +138,7 @@
   - [GITHUB](https://github.com/packtpublishing/learn-data-structures-and-algorithms-with-golang)
 - [Go 黑帽子 : 滲透測試編程之道 Tom Steele,Chris Patten,Dan Kottmann著 賈玉彬 朱錢杭 譯](https://www.tenlong.com.tw/products/9787302588245)
 
-## Ruby on Rail
+## Ruby on Rail ==> 開發 metasploit 模組
 - Online go Compiler
   - [超強的OneCompiler](https://onecompiler.com/ruby)
     - 也可以學習MYSQL  [MongoDB](https://onecompiler.com/mongodb)  [Redis](https://onecompiler.com/redis)
@@ -161,6 +161,7 @@
   - [Compile and Execute Rust Online (Rust v1.19.0)](https://www.tutorialspoint.com/compile_rust_online.php)
   - [Rust Playground](https://play.rust-lang.org/)
     - 可以顯示 LLVM IR 
+- RUST學習資源
 - [Rust for Absolute Beginners: Learn Rust in 4 Hours Video(2021)](https://www.packtpub.com/product/rust-for-absolute-beginners-learn-rust-in-4-hours-video/9781801818179)
   - [GITHUB](https://github.com/PacktPublishing/Rust-for-Beginners-Learn-Rust-in-4-Hours)
 - [Rust 實戰：從入門到精通 (Beginning Rust: From Novice to Professional) Carlo Milanesi(2021)](https://www.tenlong.com.tw/products/9787111683674)
@@ -176,3 +177,6 @@
   - [GITHUB](https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers) 
 - [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
   - [GITHUB](https://github.com/packtpublishing/hands-on-data-structures-and-algorithms-with-rust)
+- RUSTseciruty
+  - [CVE漏洞報告](https://www.cvedetails.com/vulnerability-list/vendor_id-19029/product_id-48677/Rust-lang-Rust.html)
+  - [List of security-related projects](https://github.com/rust-secure-code/projects)
