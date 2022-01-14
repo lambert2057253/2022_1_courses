@@ -30,6 +30,7 @@
   - [GITHUB](https://github.com/PacktPublishing/Practical-System-Programming-for-Rust-Developers) 
 - [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
   - [GITHUB](https://github.com/packtpublishing/hands-on-data-structures-and-algorithms-with-rust)
-- RUSTseciruty
+
+## RUSTsecurity
   - [CVE漏洞報告](https://www.cvedetails.com/vulnerability-list/vendor_id-19029/product_id-48677/Rust-lang-Rust.html)
   - [List of security-related projects](https://github.com/rust-secure-code/projects)
