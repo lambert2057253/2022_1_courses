@@ -1,14 +1,20 @@
 # [RUST](https://www.rust-lang.org/)
+
+## 開發環境
 - Rust is installed and managed by the `rustup` tool
 - On Windows, download and run rustup-init.exe
 - [下載與安裝](https://forge.rust-lang.org/infra/other-installation-methods.html)
-- Online Rust Compiler
+
+
+## 線上開發平台(Online Rust Compiler)
   - [Online Rust Compiler](https://www.onlinegdb.com/online_rust_compiler)
   - [Compile and Execute Rust Online (Rust v1.19.0)](https://www.tutorialspoint.com/compile_rust_online.php)
   - [Rust Playground](https://play.rust-lang.org/)
     - 可以顯示 LLVM IR 
 
-## RUST學習資源
+## 學習資源
+
+## 參考書籍
 - [Rust for Absolute Beginners: Learn Rust in 4 Hours Video(2021)](https://www.packtpub.com/product/rust-for-absolute-beginners-learn-rust-in-4-hours-video/9781801818179)
   - [GITHUB](https://github.com/PacktPublishing/Rust-for-Beginners-Learn-Rust-in-4-Hours)
 - [Rust 實戰：從入門到精通 (Beginning Rust: From Novice to Professional) Carlo Milanesi(2021)](https://www.tenlong.com.tw/products/9787111683674)
