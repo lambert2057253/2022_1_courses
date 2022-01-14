@@ -6,7 +6,8 @@
 - [經典 C++ Primer, 5/e (繁體中文版) Stanley B. Lippman等 黃銘偉 碁峰資訊](https://www.tenlong.com.tw/products/9789865021726)
   - [習題解答](https://github.com/Mooophy/Cpp-Primer) 
   - [程式碼下載](https://www.informit.com/store/c-plus-plus-primer-9780321714114) 
-  - []() 
+  - [Cpp Primer 学习](https://github.com/applenob/Cpp_Primer_Practice) 
+
 - [Expert C++(2020)](https://www.packtpub.com/product/expert-c/9781838552657)
   - [GITHUB](https://github.com/PacktPublishing/Expert-CPP)
 - [Advanced C++ Programming Cookbook(2020)](https://www.packtpub.com/product/advanced-c-programming-cookbook/9781838559915)
