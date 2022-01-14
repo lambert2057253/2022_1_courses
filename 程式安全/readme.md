@@ -102,20 +102,7 @@
 - [Learn C# Programming(2020)](https://www.packtpub.com/product/learn-c-programming/9781789805864)
   - [GITHUB](https://github.com/PacktPublishing/Learn-C-Sharp-Programming)
 
-## Julia
-- [Julia platform](https://julialang.org/downloads/)
-- [官方網址](https://julialang.org/)
-- Online Julia Compiler
-  - [Execute Julia Online (Julia v0.6.0)](https://www.tutorialspoint.com/execute_julia_online.php) 
-  - [超強的replit Julia online editor, IDE, compiler, interpreter, and REPL](https://replit.com/languages/julia)
-- [Learning Julia(2017)](https://www.packtpub.com/product/learning-julia/9781785883279) [GITHUB](https://github.com/packtpublishing/learning-julia)
-- [Julia 1.0 Programming Complete Reference Guide(2019)](https://www.packtpub.com/product/julia-1-0-programming-complete-reference-guide/9781838822248) [GITHUB]()
-  - This Learning Path includes content from the following Packt products:
-  - Julia 1.0 Programming - Second Edition by Ivo Balbaert
-  - Julia Programming Projects by Adrian Salceanu
-- [Julia 1.0 Programming Cookbook(2018)](https://www.packtpub.com/product/julia-1-0-programming-cookbook/9781788998369)  [GITHUB](https://github.com/packtpublishing/julia-1.0-programming-cookbook)
-- [Julia for Data Science(2016)](https://www.packtpub.com/product/julia-for-data-science/9781785289699) [GITHUB](https://github.com/packtpublishing/julia-for-data-science)
-- [Hands-On Computer Vision with Julia(2018)](https://www.packtpub.com/product/hands-on-computer-vision-with-julia/9781788998796) [GITHUB](https://github.com/packtpublishing/hands-on-computer-vision-with-julia)
+
 ## GO
 - [Download Go for Windows](https://go.dev/doc/install)
   - $ go version
@@ -129,17 +116,6 @@
   - [GITHUB](https://github.com/packtpublishing/learn-data-structures-and-algorithms-with-golang)
 - [Go 黑帽子 : 滲透測試編程之道 Tom Steele,Chris Patten,Dan Kottmann著 賈玉彬 朱錢杭 譯](https://www.tenlong.com.tw/products/9787302588245)
 
-## Ruby on Rail ==> 開發 metasploit 模組
-- Online go Compiler
-  - [超強的OneCompiler](https://onecompiler.com/ruby)
-    - 也可以學習MYSQL  [MongoDB](https://onecompiler.com/mongodb)  [Redis](https://onecompiler.com/redis)
-  - [Online Ruby Compiler](https://www.onlinegdb.com/online_ruby_compiler)
-  - [Execute Ruby Online (Ruby v2.4.1)](https://www.tutorialspoint.com/execute_ruby_online.php)
-- [The Ruby Workshop(2019)](https://www.packtpub.com/product/the-ruby-workshop/9781838642365) 
-- [Comprehensive Ruby Programming(2017)](https://www.packtpub.com/product/comprehensive-ruby-programming/9781787280649)  [GITHUB](https://github.com/packtpublishing/comprehensive-ruby-programming)
-- [Polished Ruby Programming(2021)](https://www.packtpub.com/product/polished-ruby-programming/9781801072724) [GITHUB](https://github.com/PacktPublishing/Polished-Ruby-Programming)
-- [Cloning Internet Applications with Ruby(2010)](https://www.packtpub.com/product/cloning-internet-applications-with-ruby/9781849511063)
-- [Ruby on Rails應用開發最強教科書 (日)太田智彬//寺下翔太//手塚亮(2021)](https://www.tenlong.com.tw/products/9787515364155)
-- [Build a Cryptocurrency News Site with Ruby on Rails Video(2019)](https://www.packtpub.com/product/build-a-cryptocurrency-news-site-with-ruby-on-rails-video/9781839212925)
+
 
 
