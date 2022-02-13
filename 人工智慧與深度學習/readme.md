@@ -1,8 +1,17 @@
-## 開發環境
-#### tensorflow
+## 上課內容 ==> 請參看崑山網路大學
 
+## 深度學習 (Deep Learning)
+- [經典教科書:深度學習 (Deep Learning) 深度学习(Deep learning) , Ian Goodfellow, Yoshua Bengio, Aaron Courville]()
 
-#### PyTorch
+#### 開發環境1:tensorflow
+- [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
+- [TensorFlow 語音識別實戰 王曉華 清華大學(2021-08-01)](https://www.tenlong.com.tw/products/9787302584858?list_name=srh)
+
+- [TinyML｜TensorFlow Lite 機器學習 : 應用 Arduino 與低耗電微控制器 Pete Warden, Daniel Situnayake 賴屹民 譯歐萊禮(2020-07-31)](https://www.tenlong.com.tw/products/9789865025359?list_name=srh)
+  - Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-Low-Power Microcontrollers
+ 
+
+#### 開發環境2:PyTorch
 - [核心開發者親授！PyTorch 深度學習攻略 (Deep Learning with Pytorch)Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修 旗標科技(2021-07-23)](https://www.tenlong.com.tw/products/9789863126737?list_name=rd)
 - [PyTorch 深度學習和圖神經網絡 捲1 基礎知識, 李金洪 人民郵電(2021-12-01)](https://www.tenlong.com.tw/products/9787115549839?list_name=srh)
 - [PyTorch 深度學習和圖神經網絡 捲2 開發應用 李金洪 人民郵電(2021-12-01)](https://www.tenlong.com.tw/products/9787115560926?list_name=srh)
