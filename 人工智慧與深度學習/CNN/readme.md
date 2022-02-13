@@ -3,6 +3,8 @@
 
 ## CNN演算法
 - AlexNet網絡架構
+- VGGNet網絡結構
+- GoogLeNet
 - Inception系列模型
   - Inception V1模型
   - Inception V2模型
