@@ -1,7 +1,7 @@
 
 ## 環境建置
 
-## GAN演算法[生成對抗網路（GAN) since 2014]
+## GAN演算法[生成對抗網路(GAN)since 2014]
 - DCGAN
 - 條件式 GAN (CGAN)
   - [Conditional Generative Adversarial Nets Mehdi Mirza, Simon Osindero](https://arxiv.org/abs/1411.1784) 
