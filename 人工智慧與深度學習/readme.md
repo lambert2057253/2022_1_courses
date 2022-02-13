@@ -5,6 +5,12 @@
 
 #### 開發環境1:tensorflow
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
+- [深度學習案例精粹：基於TensorFlow與Keras 王曉華  清華大學(2022-01-01)](https://www.tenlong.com.tw/products/9787302596516?list_name=srh)
+  - 第2章 實戰卷積神經網絡—手寫體識別   MNIST
+  - 第3章 實戰ResNet—CIFAR-100數據集分類
+  - 第4章 實戰循環神經網絡GRU—情感分類
+  - 第7章 實戰BERT—中文文本分類
+  - 第8章 實戰自然語言處理—多標籤文本分類
 - [TensorFlow 語音識別實戰 王曉華 清華大學(2021-08-01)](https://www.tenlong.com.tw/products/9787302584858?list_name=srh)
 
 - [TinyML｜TensorFlow Lite 機器學習 : 應用 Arduino 與低耗電微控制器 Pete Warden, Daniel Situnayake 賴屹民 譯歐萊禮(2020-07-31)](https://www.tenlong.com.tw/products/9789865025359?list_name=srh)
