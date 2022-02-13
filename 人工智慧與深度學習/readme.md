@@ -5,6 +5,8 @@
 
 #### 開發環境1:tensorflow
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
+- [Python 機器學習 (上|下), 3/e Sebastian Raschka、Vahid Mirjalili　著 劉立民、吳建華　譯 博碩文化(2020-09-14)](https://www.tenlong.com.tw/products/9789864345182?list_name=trs-t)
+  - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 3/e, 2019)](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
 - [深度學習案例精粹：基於TensorFlow與Keras 王曉華  清華大學(2022-01-01)](https://www.tenlong.com.tw/products/9787302596516?list_name=srh)
   - 第2章 實戰卷積神經網絡—手寫體識別   MNIST
   - 第3章 實戰ResNet—CIFAR-100數據集分類
@@ -12,8 +14,11 @@
   - 第7章 實戰BERT—中文文本分類
   - 第8章 實戰自然語言處理—多標籤文本分類
 - [The TensorFlow Workshop: A hands-on guide to building deep learning models from scratch using real-world datasets, Packt Publishing(2021-12-31)](https://www.packtpub.com/product/the-tensorflow-workshop/9781800205253)
+- [深度學習實戰：基於TensorFlow 2和Keras（原書第2版）Antonio Gulli，Amita Kapoor，Sujit Pal 劉尚峰 劉冰 譯 機械工業(2021-08-06)]()
+  -  [Deep Learning with TensorFlow 2 and Keras - Second Edition(2019.12)](https://www.packtpub.com/product/deep-learning-with-tensorflow-2-and-keras-second-edition/9781838823412)
+- [Advanced Deep Learning with TensorFlow 2 and Keras - Second Edition Rowel Atienza(2020)](https://www.packtpub.com/product/advanced-deep-learning-with-tensorflow-2-and-keras-second-edition/9781838821654)
 - [TensorFlow 語音識別實戰 王曉華 清華大學(2021-08-01)](https://www.tenlong.com.tw/products/9787302584858?list_name=srh)
-
+- [生成對抗網路最精解：用 TensorFlow 實作最棒的 GAN 應用  廖茂文、潘志宏 著  深智數位(2021-09-16)](https://www.tenlong.com.tw/products/9789860776218?list_name=srh)
 - [TinyML｜TensorFlow Lite 機器學習 : 應用 Arduino 與低耗電微控制器 Pete Warden, Daniel Situnayake 賴屹民 譯歐萊禮(2020-07-31)](https://www.tenlong.com.tw/products/9789865025359?list_name=srh)
   - Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-Low-Power Microcontrollers
  
