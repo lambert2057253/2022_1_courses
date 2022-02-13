@@ -11,6 +11,7 @@
   - 第4章 實戰循環神經網絡GRU—情感分類
   - 第7章 實戰BERT—中文文本分類
   - 第8章 實戰自然語言處理—多標籤文本分類
+- [The TensorFlow Workshop: A hands-on guide to building deep learning models from scratch using real-world datasets, Packt Publishing(2021-12-31)](https://www.packtpub.com/product/the-tensorflow-workshop/9781800205253)
 - [TensorFlow 語音識別實戰 王曉華 清華大學(2021-08-01)](https://www.tenlong.com.tw/products/9787302584858?list_name=srh)
 
 - [TinyML｜TensorFlow Lite 機器學習 : 應用 Arduino 與低耗電微控制器 Pete Warden, Daniel Situnayake 賴屹民 譯歐萊禮(2020-07-31)](https://www.tenlong.com.tw/products/9789865025359?list_name=srh)
@@ -32,7 +33,7 @@
   - 第14章實戰：使用 PyTorch 進行視頻處理
   - 第15章實戰：使用 PyTorch 在跨域數據集上進行圖像分類
   - 第16章實戰：使用 PyTorch 實現基於BERT的自動新聞文本分類
-
+- [The Deep Learning with PyTorch Workshop(2020)](https://www.packtpub.com/product/the-deep-learning-with-pytorch-workshop/9781838989217)
 
 
 # 成績計算
