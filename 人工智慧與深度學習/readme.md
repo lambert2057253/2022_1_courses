@@ -27,7 +27,8 @@
 - [TinyML｜TensorFlow Lite 機器學習 : 應用 Arduino 與低耗電微控制器 Pete Warden, Daniel Situnayake 賴屹民 譯歐萊禮(2020-07-31)](https://www.tenlong.com.tw/products/9789865025359?list_name=srh)
   - Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-Low-Power Microcontrollers
 - [深度學習實務應用｜雲端、行動與邊緣裝置  Anirudh Koul, Siddha Ganju, Meher Kasam 著 楊新章 譯  歐萊禮  2021-08-10](https://www.tenlong.com.tw/products/9789865026066?list_name=srh)
-  - Practical Deep Learning for Cloud, Mobile and Edge
+  - [Practical Deep Learning for Cloud, Mobile and Edge(2019)](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/)
+  - [程式碼github](https://github.com/practicalDL/Practical-Deep-Learning-Book/)
 
 #### 開發環境2:PyTorch
 - [核心開發者親授！PyTorch 深度學習攻略 (Deep Learning with Pytorch)Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修 旗標科技(2021-07-23)](https://www.tenlong.com.tw/products/9789863126737?list_name=rd)
