@@ -19,9 +19,15 @@
 - [Advanced Deep Learning with TensorFlow 2 and Keras - Second Edition Rowel Atienza(2020)](https://www.packtpub.com/product/advanced-deep-learning-with-tensorflow-2-and-keras-second-edition/9781838821654)
 - [TensorFlow 語音識別實戰 王曉華 清華大學(2021-08-01)](https://www.tenlong.com.tw/products/9787302584858?list_name=srh)
 - [生成對抗網路最精解：用 TensorFlow 實作最棒的 GAN 應用  廖茂文、潘志宏 著  深智數位(2021-09-16)](https://www.tenlong.com.tw/products/9789860776218?list_name=srh)
+##### TensorFlow.js
+- [Hands-On Machine Learning with TensorFlow.js(2019)](https://www.packtpub.com/product/hands-on-machine-learning-with-tensorflow-js/9781838821739)
+- [JavaScript 深度學習 Shanqing Cai，Stanley Bileschi，Eric D. Nielsen，Fran?ois Chollet 程泽 人民郵電 2021-04-01](https://www.tenlong.com.tw/products/9787115561145?list_name=srh)
+  - [Deep Learning with JavaScript: Neural Networks in Tensorflow.Js](https://www.manning.com/books/deep-learning-with-javascript)
+##### TensorFlow Lite
 - [TinyML｜TensorFlow Lite 機器學習 : 應用 Arduino 與低耗電微控制器 Pete Warden, Daniel Situnayake 賴屹民 譯歐萊禮(2020-07-31)](https://www.tenlong.com.tw/products/9789865025359?list_name=srh)
   - Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-Low-Power Microcontrollers
- 
+- [深度學習實務應用｜雲端、行動與邊緣裝置  Anirudh Koul, Siddha Ganju, Meher Kasam 著 楊新章 譯  歐萊禮  2021-08-10](https://www.tenlong.com.tw/products/9789865026066?list_name=srh)
+  - Practical Deep Learning for Cloud, Mobile and Edge
 
 #### 開發環境2:PyTorch
 - [核心開發者親授！PyTorch 深度學習攻略 (Deep Learning with Pytorch)Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修 旗標科技(2021-07-23)](https://www.tenlong.com.tw/products/9789863126737?list_name=rd)
