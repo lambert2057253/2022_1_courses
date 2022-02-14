@@ -21,6 +21,8 @@
 - [生成對抗網路最精解：用 TensorFlow 實作最棒的 GAN 應用  廖茂文、潘志宏 著  深智數位(2021-09-16)](https://www.tenlong.com.tw/products/9789860776218?list_name=srh)
 ##### TensorFlow.js
 - [Hands-On Machine Learning with TensorFlow.js(2019)](https://www.packtpub.com/product/hands-on-machine-learning-with-tensorflow-js/9781838821739)
+- [Hands-On Python Deep Learning for the Web(2020)](https://www.packtpub.com/product/hands-on-python-deep-learning-for-the-web/9781789956085)
+  - [程式碼github](https://github.com/PacktPublishing/Hands-On-Python-Deep-Learning-for-Web)
 - [JavaScript 深度學習 Shanqing Cai，Stanley Bileschi，Eric D. Nielsen，Fran?ois Chollet 程泽 人民郵電 2021-04-01](https://www.tenlong.com.tw/products/9787115561145?list_name=srh)
   - [Deep Learning with JavaScript: Neural Networks in Tensorflow.Js](https://www.manning.com/books/deep-learning-with-javascript)
 ##### TensorFlow Lite
