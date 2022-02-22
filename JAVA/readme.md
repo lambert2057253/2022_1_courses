@@ -1,3 +1,7 @@
+## 開發環境:Online Java Compiler IDE
+
+- [JDoodle](https://www.jdoodle.com/online-java-compiler/)
+
 
 ## 教科書
 
@@ -23,3 +27,10 @@
 第16章 Lambda運算式
 附錄A MTA 98-388 Introduction to Programming Using Java國際認證模擬試題
 ```
+
+## 成績計算
+
+- 期中平時(20%)
+- 期中考(30%)
+- 期末平時(20%)
+- 期末考(30%)
