@@ -10,10 +10,14 @@
   - 人工智慧
 - 資料呈現與資料傳送 ==> Python + line bot
 
+## 本學期以影像處理為教學主軸: 影像分類|人臉辨識|自駕車
+
 ## 教科書
+- [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
 
+## 參考書 ==> 請盡量去圖書館借閱
 
-## 
+## 各周次上課主題
 |  周次 | 上課主題|
 | -----| --------|
 |第 1 週|人工智慧開發環境: 包括人工智慧常用套件的介紹與應用,將包括本地開發環境建置與雲端程式開發環境|
@@ -35,9 +39,8 @@
 |第 17 週|CNN((Convolutional Neural Network))深度學習演算法:講授著名的CNN深度學習演算法如與應用|
 |第 18 週|期末考|
 
-## python資料科學
+## python資料科學常用套件與參考書目
 ```
-資料分析
 numpy
 panda
 scipy
@@ -47,11 +50,10 @@ sympy
 
 D3.js
 ```
+- [Python 資料分析, 2/e (Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2/e)  Wes McKinney 張靜雯 歐萊禮](https://www.tenlong.com.tw/products/9789864769254?list_name=rd)
+  - pandas 作者親自撰寫的經典 
 
-## 參考書籍 開發環境1:tensorflow
-- [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
-- [Python 機器學習 (上|下), 3/e Sebastian Raschka、Vahid Mirjalili　著 劉立民、吳建華　譯 博碩文化(2020-09-14)](https://www.tenlong.com.tw/products/9789864345182?list_name=trs-t)
-  - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 3/e, 2019)](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
+
 
 
 # 成績計算
