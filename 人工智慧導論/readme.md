@@ -75,8 +75,8 @@ D3.js
 - [Python 資料分析, 2/e (Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2/e)  Wes McKinney 張靜雯 歐萊禮](https://www.tenlong.com.tw/products/9789864769254?list_name=rd)
   - pandas 作者親自撰寫的經典 
 
-## 本學期以`影像處理`為教學主軸: 影像分類|人臉辨識|自駕車 ==> 從 opencv影像辨識 到 人工智慧影像辨識
-
+## 本學期以`影像處理`為教學主軸: 影像分類|人臉辨識|自駕車 
+- 從 opencv影像辨識 到 人工智慧影像辨識
 - [OpenCV 影像創意邁向 AI 視覺王者歸來 (全彩印刷) 洪錦魁  深智數位](https://www.tenlong.com.tw/products/9789860776782?list_name=srh)
   - 第十一章 刪除影像雜訊
   - 第十二章 數學形態學(影像變形)
