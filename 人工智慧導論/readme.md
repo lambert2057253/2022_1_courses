@@ -76,6 +76,7 @@ D3.js
 - [OpenCV 影像創意邁向 AI 視覺王者歸來 (全彩印刷) 洪錦魁  深智數位](https://www.tenlong.com.tw/products/9789860776782?list_name=srh)
   - 第十一章 刪除影像雜訊
   - 第十二章 數學形態學(影像變形)
+- [OpenCV 4 詳解：基於 Python   馮振，陳亞萌  人民郵電](https://www.tenlong.com.tw/products/9787115566034?list_name=srh)
 
 # 成績計算
 
