@@ -12,9 +12,17 @@
 
 ## 本學期以影像處理為教學主軸: 影像分類|人臉辨識|自駕車
 
-## 教科書
+## 教科書 ==> 學習當以小型專題作為知識與技術整合
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
 - [Python 從網路爬蟲到生活應用超實務](https://www.books.com.tw/products/0010877656)
+  - 07 應用實務：爬取食衣住行和娛樂資訊
+  - 08 應用實務：爬取排行榜和網路趨勢資訊
+  - 09 整合應用：IFTTT、LINE 和 Telegram 發送通知訊息
+  - 10 應用實務：爬取 YouTube 等影音網站
+  - 11 應用實務：爬取 Imgur 和 PTT 表特版圖片
+  - 12 整合應用：自動排程通知、爬取 / 下載資料和 Telegram Bot
+  - 13 應用實務：爬取金融與商務資料
+  - 14 應用實務：爬取股市指數和股價數據
 
 
 ## 參考書 ==> 請盡量去圖書館借閱
