@@ -14,8 +14,17 @@
 
 ## 教科書
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
+- [Python 從網路爬蟲到生活應用超實務](https://www.books.com.tw/products/0010877656)
+
 
 ## 參考書 ==> 請盡量去圖書館借閱
+
+- [Python 與 LINE Bot 機器人全面實戰特訓班](https://www.books.com.tw/products/0010830739)
+  - 08 專題：智慧客服機器人
+  - 09 專題：天氣匯率萬事通
+  - 10 專題：發票對獎小幫手
+  - 11 專題：多國語音翻譯機器人
+  - 12 專題：線上旅館訂房管家
 
 ## 各周次上課主題
 |  周次 | 上課主題|
@@ -54,7 +63,11 @@ D3.js
   - pandas 作者親自撰寫的經典 
 
 
+## opencv影像辨識
 
+- [OpenCV 影像創意邁向 AI 視覺王者歸來 (全彩印刷) 洪錦魁  深智數位](https://www.tenlong.com.tw/products/9789860776782?list_name=srh)
+  - 第十一章 刪除影像雜訊
+  - 第十二章 數學形態學(影像變形)
 
 # 成績計算
 
