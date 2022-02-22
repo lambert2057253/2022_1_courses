@@ -55,7 +55,7 @@
   - 12 專題：線上旅館訂房管家
 
 
-## 你要視還不會python 可參看底下書籍
+## 你要是還不會python 可參看底下書籍
 
 - [The Python Workshop｜跟著實例有效學習 Python (The Python Workshop) Andrew Bird 等 著 張靜雯 譯  碁峰資訊(2020-12-21)](https://www.tenlong.com.tw/products/9789865026608?list_name=srh)
 - 用python解數學?! see [The Statistics and Calculus with Python Workshop](https://www.packtpub.com/product/the-statistics-and-calculus-with-python-workshop/9781800209763)
