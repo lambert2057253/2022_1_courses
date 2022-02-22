@@ -1,16 +1,58 @@
 ## 上課內容 ==> 請參看崑山網路大學
 
+## 核心架構 
 
-#### 開發環境1:tensorflow
+- python 基本技術
+- 資料蒐集 ==> python 爬蟲
+- 資料分析 ==> 
+  - 資料科學
+  - 機器學習
+  - 人工智慧
+- 資料呈現與資料傳送 ==> Python + line bot
+
+## 教科書
+
+
+## 
+|  周次 | 上課主題|
+| -----| --------|
+|第 1 週|人工智慧開發環境: 包括人工智慧常用套件的介紹與應用,將包括本地開發環境建置與雲端程式開發環境|
+|第 2 週|使用NUMPY進行計算:講授NUMPY使用的資料結構narray與常用的計算函數與e與廣播機制|
+|第 3 週|使用panda進行資料分析:包括DataFrame及Series的基本操作與資料載入、儲存和檔案格式|
+|第 4 週|資料視覺化: 使用matplotlib各種圖表視覺化資料與定位資訊視覺化手法|
+|第 5 週|範例專題1:使用python爬蟲程式(Scrapy 爬蟲框架)進行資料蒐集|
+|第 6 週|範例專題2:以範例展示資料分析技術與視覺化呈現|
+|第 7 週|機器學習演算法1:講授分類演算法的基本觀念與使用情境|
+|第 8 週|機器學習演算法2:講授叢集演算法的基本觀念與使用情境|
+|第 9 週|期中考|
+|第 10 週|人工智慧概論:講授人工智慧的歷史發展與核心成果|
+|第 11 週|影像處理:講授各種影像處理的基本觀念與應用情境|
+|第 12 週|使用OPENCV進行影像辨識:講授OPENCV的各種應用情境與相對應的函數|
+|第 13 週|物件偵測:講授物件偵測的基本觀念與應用時機,並以OPENCV配合案例實戰|
+|第 14 週|人臉辨識實戰:講授人臉辨識的基本觀念與應用時機,並以OPENCV配合案例實戰|
+|第 15 週|類神經網路:講授類神經網路的基本觀念與應用,並以邏輯閘的分類展示類神經網路|
+|第 16 週|規則更新與SGD演篹法: 講授隨機梯度下降法(stochastic gradient descent，SGD)的基本觀念與使用技術|
+|第 17 週|CNN((Convolutional Neural Network))深度學習演算法:講授著名的CNN深度學習演算法如與應用|
+|第 18 週|期末考|
+
+## python資料科學
+```
+資料分析
+numpy
+panda
+scipy
+sympy
+
+資料視覺化
+
+D3.js
+```
+
+## 參考書籍 開發環境1:tensorflow
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e Aurélien Géron 著 賴屹民 譯 歐萊禮(2020-04-08)](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
 - [Python 機器學習 (上|下), 3/e Sebastian Raschka、Vahid Mirjalili　著 劉立民、吳建華　譯 博碩文化(2020-09-14)](https://www.tenlong.com.tw/products/9789864345182?list_name=trs-t)
   - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 3/e, 2019)](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
-- [深度學習案例精粹：基於TensorFlow與Keras 王曉華  清華大學(2022-01-01)](https://www.tenlong.com.tw/products/9787302596516?list_name=srh)
-  - 第2章 實戰卷積神經網絡—手寫體識別   MNIST
-  - 第3章 實戰ResNet—CIFAR-100數據集分類
-  - 第4章 實戰循環神經網絡GRU—情感分類
-  - 第7章 實戰BERT—中文文本分類
-  - 第8章 實戰自然語言處理—多標籤文本分類
+
 
 # 成績計算
 
