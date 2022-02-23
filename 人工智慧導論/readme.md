@@ -1,6 +1,6 @@
 ## Google Meet
 
-https://meet.google.com/ume-eekp-zjb
+https://meet.google.com/zye-yfqa-mdh
 
 ## 本課程學習核心: 
 
