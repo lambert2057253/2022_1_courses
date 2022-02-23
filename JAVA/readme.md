@@ -1,3 +1,5 @@
+## [恩師上課超連結](https://github.com/MyDearGreatTeacher/2022_1_courses)
+
 ## 視訊上課
 
 https://meet.google.com/dvi-mbpj-axz
