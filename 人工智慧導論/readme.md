@@ -1,6 +1,6 @@
 ## Google Meet
 
-https://meet.google.com/zye-yfqa-mdh
+https://meet.google.com/uov-dour-cpp
 
 ## 本課程學習核心: 
 
