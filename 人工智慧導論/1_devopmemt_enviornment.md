@@ -1,5 +1,5 @@
 
-## GOOGLE Colab
+## [GOOGLE Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=zh-tw)
 
 ## windows (1)
 - python 3
@@ -10,4 +10,7 @@
 ## windows (2) anaconda
 - https://www.anaconda.com/products/individual
 
+
+## Linux (1) 
+## Linux (2)anaconda
 
