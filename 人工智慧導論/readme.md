@@ -1,3 +1,7 @@
+## Google Meet
+
+https://meet.google.com/ume-eekp-zjb
+
 ## 本課程學習核心: 
 
 - python 基本技術
