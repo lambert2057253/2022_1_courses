@@ -12,7 +12,9 @@ argon2-cffi                   21.3.0
 argon2-cffi-bindings          21.2.0
 arviz                         0.11.4
 astor                         0.8.1
+
 astropy                       4.3.1
+
 astunparse                    1.6.3
 atari-py                      0.2.9
 atomicwrites                  1.4.0
@@ -24,10 +26,10 @@ backcall                      0.2.0
 beautifulsoup4                4.6.3
 bleach                        4.1.0
 blis                          0.4.1
-bokeh                         2.3.3
+(*)bokeh                         2.3.3   ==> https://docs.bokeh.org/en/latest/docs/gallery/color_scatter.html
 Bottleneck                    1.3.2
 branca                        0.4.2
-bs4                           0.0.1
+(*) bs4                           0.0.1 ==> 
 CacheControl                  0.12.10
 cached-property               1.5.2
 cachetools                    4.2.4
@@ -57,7 +59,7 @@ cymem                         2.0.6
 Cython                        0.29.28
 daft                          0.0.4
 dask                          2.12.0
-datascience                   0.10.6
+(??)datascience                   0.10.6
 debugpy                       1.0.0
 decorator                     4.4.2
 defusedxml                    0.7.1
@@ -87,7 +89,7 @@ feather-format                0.4.1
 filelock                      3.6.0
 firebase-admin                4.4.0
 fix-yahoo-finance             0.0.22
-Flask                         1.1.4
+(*) Flask                         1.1.4
 flatbuffers                   2.0
 folium                        0.8.3
 future                        0.16.0
@@ -123,7 +125,7 @@ greenlet                      1.1.2
 grpcio                        1.43.0
 gspread                       3.4.2
 gspread-dataframe             3.0.8
-gym                           0.17.3
+(*) gym                           0.17.3
 h5py                          3.1.0
 HeapDict                      1.0.1
 hijri-converter               2.2.3
@@ -137,7 +139,7 @@ humanize                      0.5.1
 hyperopt                      0.1.2
 ideep4py                      2.0.0.post3
 idna                          2.10
-imageio                       2.4.1
+(*) imageio                       2.4.1
 imagesize                     1.3.0
 imbalanced-learn              0.8.1
 imblearn                      0.0
@@ -171,8 +173,8 @@ jupyterlab-pygments           0.1.2
 jupyterlab-widgets            1.0.2
 kaggle                        1.5.12
 kapre                         0.3.7
-keras                         2.8.0
-Keras-Preprocessing           1.1.2
+(*) keras                         2.8.0
+(*) Keras-Preprocessing           1.1.2
 keras-vis                     0.4.1
 kiwisolver                    1.3.2
 korean-lunar-calendar         0.2.1
@@ -182,10 +184,10 @@ lightgbm                      2.2.3
 llvmlite                      0.34.0
 lmdb                          0.99
 LunarCalendar                 0.0.9
-lxml                          4.2.6
+(*) lxml                          4.2.6
 Markdown                      3.3.6
 MarkupSafe                    2.0.1
-matplotlib                    3.2.2
+(*) matplotlib                    3.2.2
 matplotlib-inline             0.1.3
 matplotlib-venn               0.11.6
 missingno                     0.5.0
@@ -209,24 +211,24 @@ nest-asyncio                  1.5.4
 netCDF4                       1.5.8
 networkx                      2.6.3
 nibabel                       3.0.2
-nltk                          3.2.5
+nltk                          3.2.5 ==> NLP
 notebook                      5.3.1
 numba                         0.51.2
 numexpr                       2.8.1
-numpy                         1.21.5
+(*) numpy                         1.21.5
 nvidia-ml-py3                 7.352.0
 oauth2client                  4.1.3
 oauthlib                      3.2.0
 okgrade                       0.4.3
-opencv-contrib-python         4.1.2.30
-opencv-python                 4.1.2.30
+(*) opencv-contrib-python         4.1.2.30
+(*) opencv-python                 4.1.2.30
 openpyxl                      3.0.9
 opt-einsum                    3.3.0
 osqp                          0.6.2.post0
 packaging                     21.3
 palettable                    3.3.0
-pandas                        1.3.5
-pandas-datareader             0.9.0
+(*) pandas                        1.3.5
+(*) pandas-datareader             0.9.0
 pandas-gbq                    0.13.3
 pandas-profiling              1.4.1
 pandocfilters                 1.5.0
@@ -238,9 +240,9 @@ patsy                         0.5.2
 pep517                        0.12.0
 pexpect                       4.8.0
 pickleshare                   0.7.5
-Pillow                        7.1.2
-pip                           21.1.3
-pip-tools                     6.2.0
+(*) Pillow                        7.1.2
+(*) pip                           21.1.3
+(*) pip-tools                     6.2.0
 plac                          1.1.3
 plotly                        5.5.0
 plotnine                      0.6.0
@@ -301,17 +303,17 @@ qdldl                         0.1.5.post0
 qtconsole                     5.2.2
 QtPy                          2.0.1
 regex                         2019.12.20
-requests                      2.23.0
+(*) requests                      2.23.0
 requests-oauthlib             1.3.1
 resampy                       0.2.2
 rpy2                          3.4.5
 rsa                           4.8
 scikit-image                  0.18.3
-scikit-learn                  1.0.2
-scipy                         1.4.1
+(*) scikit-learn                  1.0.2
+(*) scipy                         1.4.1
 screen-resolution-extra       0.0.0
 scs                           3.1.0
-seaborn                       0.11.2
+(*) seaborn                       0.11.2
 semver                        2.13.0
 Send2Trash                    1.8.0
 setuptools                    57.4.0
@@ -332,17 +334,17 @@ sphinxcontrib-websupport      1.2.4
 SQLAlchemy                    1.4.31
 sqlparse                      0.4.2
 srsly                         1.0.5
-statsmodels                   0.10.2
-sympy                         1.7.1
+(*) statsmodels                   0.10.2
+(*) sympy                         1.7.1
 tables                        3.7.0
 tabulate                      0.8.9
 tblib                         1.7.0
 tenacity                      8.0.1
-tensorboard                   2.8.0
+(*) tensorboard                   2.8.0
 tensorboard-data-server       0.6.1
 tensorboard-plugin-wit        1.8.1
-tensorflow                    2.8.0
-tensorflow-datasets           4.0.1
+(*) tensorflow                    2.8.0 ==> AI
+(*) tensorflow-datasets           4.0.1
 tensorflow-estimator          2.8.0
 tensorflow-gcs-config         2.8.0
 tensorflow-hub                0.12.0
@@ -360,7 +362,7 @@ threadpoolctl                 3.1.0
 tifffile                      2021.11.2
 tomli                         2.0.1
 toolz                         0.11.2
-torch                         1.10.0+cu111
+(*) torch                         1.10.0+cu111  ==> AI
 torchaudio                    0.10.0+cu111
 torchsummary                  1.5.1
 torchtext                     0.11.0
@@ -373,7 +375,7 @@ typeguard                     2.7.1
 typing-extensions             3.10.0.2
 tzlocal                       1.5.1
 uritemplate                   3.0.1
-urllib3                       1.24.3
+(*) urllib3                       1.24.3
 vega-datasets                 0.9.0
 wasabi                        0.9.0
 wcwidth                       0.2.5
@@ -384,7 +386,7 @@ widgetsnbextension            3.5.2
 wordcloud                     1.5.0
 wrapt                         1.13.3
 xarray                        0.18.2
-xgboost                       0.90
+(*) xgboost                       0.90 
 xkit                          0.0.0
 xlrd                          1.1.0
 xlwt                          1.3.0
