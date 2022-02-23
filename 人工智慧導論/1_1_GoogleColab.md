@@ -1,5 +1,7 @@
 # Google Colab
 
+## !pip list
+
 ```
 Package                       Version
 ----------------------------- --------------
@@ -392,4 +394,9 @@ xlrd                          1.1.0
 xlwt                          1.3.0
 zict                          2.0.0
 zipp                          3.7.0
+```
+## 
+```
+import tensorflow
+print(tensorflow.__version__)
 ```
