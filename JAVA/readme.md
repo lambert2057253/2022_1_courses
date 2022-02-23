@@ -1,3 +1,7 @@
+## 視訊上課
+
+https://meet.google.com/dvi-mbpj-axz
+
 ## 開發環境:Online Java Compiler IDE
 
 - [JDoodle](https://www.jdoodle.com/online-java-compiler/)
