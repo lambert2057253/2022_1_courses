@@ -1,5 +1,7 @@
 
 ## [GOOGLE Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=zh-tw)
+- !pip list  ==> see software installed in google colab
+
 
 ## windows (1)
 - python 3
