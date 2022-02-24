@@ -2,6 +2,14 @@
 
 https://meet.google.com/fao-yevo-bqe
 
+
+##
+
+
+# 開發環境下載
+- [Kali系統下載區](https://drive.google.com/file/d/1awLNHsJKgga2W0XFycnBmPEgzx4221Wi/view?usp=sharing)
+- [Ubuntu 18.04LTS系統下載區(感謝陳憶賢博士提供)](https://drive.google.com/file/d/1QPy_Ztk5Gl1ZkHRRCCytEJRem0KjItOw/view?usp=sharing)
+
 # 從程式開發到程式安全  From coding to Security
 
 - 程式安全(本課程) ==> 如何分析程式的漏洞與安全修補
