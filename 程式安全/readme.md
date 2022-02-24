@@ -3,6 +3,7 @@
 https://meet.google.com/fao-yevo-bqe
 
 # 從程式開發到程式安全  From coding to Security
+
 - 程式安全(本課程) ==> 如何分析程式的漏洞與安全修補
   - 原始碼檢測
   - Fuzzer 
@@ -14,6 +15,14 @@ https://meet.google.com/fao-yevo-bqe
 - Python Security
 - JAVA Security
 - Ruby Security
+
+## 程式開發
+
+- 系統程式
+- 應用系統(伺服器程式): WORDPRESS PLUGIN
+- 網站應用程式
+- 手機APP
+
 
 # C 程式開發
 - [Visual Studio code官方說明文獻](https://code.visualstudio.com/docs)
