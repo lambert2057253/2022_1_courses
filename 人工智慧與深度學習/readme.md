@@ -7,6 +7,9 @@ https://meet.google.com/fxu-nqnu-yhh
 https://github.com/MyFirstSecurity2020/HappyPythonDay
 
 ## 上課內容 ==> 請參看崑山網路大學
+
+## [台大 李弘毅教授課程](https://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+
 ## 深度學習 (Deep Learning)
 - [經典教科書:深度學習 (Deep Learning) 深度学习(Deep learning) , Ian Goodfellow, Yoshua Bengio, Aaron Courville]()
 
