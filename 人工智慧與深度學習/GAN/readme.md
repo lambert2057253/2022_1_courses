@@ -45,8 +45,12 @@
 ## 參考書籍
 ### [生成對抗網路最精解：用 TensorFlow 實作最棒的 GAN 應用: 廖茂文、潘志宏 著  深智數位(2021-09-16)](https://www.tenlong.com.tw/products/9789860776218?list_name=srh)
 ```
-
-
+07 條件生成對抗網路
+7.1 如何實現圖型間風格轉換
+7.2 條件生成對抗網路
+7.3 ColorGAN 的實現
+7.4 實現文字轉圖型
+7.5 實現句子轉圖型
 ```
 
 ### [GAN 對抗式生成網路 (GANs in Action: Deep learning with Generative Adversarial Networks)Jakub Langr、Vladimir Bok 著 哈雷 譯 旗標科技(2020-09-07)](https://www.tenlong.com.tw/products/9789863126386?list_name=sp)
@@ -66,11 +70,7 @@
 11.2.4 針對個人偏好改良現有商品
 ```
 
-### 
-```
-
-
-```
+### [PyTorch 生成對抗網絡編程 Tariq Rashid 韓江雷 人民郵電](https://www.tenlong.com.tw/products/9787115546388?list_name=srh)
 
 ### [GAN : 實戰生成對抗網絡 Kuntal Ganguly 電子工業(2018)](https://www.tenlong.com.tw/products/9787121342547?list_name=rd)
 ```
