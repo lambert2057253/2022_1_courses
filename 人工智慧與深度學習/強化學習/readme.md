@@ -27,6 +27,10 @@
 - [深度強化式學習 (Deep Reinforcement Learning in Action) Alexander Zai、Brandon Brown 著 黃駿 譯 旗標科技](https://www.tenlong.com.tw/products/9789863126522?list_name=srh)
 - [強化式學習：打造最強 AlphaZero 通用演算法 布留川 英一 著 王心薇 譯  旗標科技( Google Colab )](https://www.tenlong.com.tw/products/9789863126515?list_name=srh)
 - [新一代AI霸主：深度強化學習從基礎開始到專案開發  董豪、丁子涵、仉尚航 深智數位](https://www.tenlong.com.tw/products/9789860776829?list_name=srh)
+- [動手做深度強化學習 (Deep Reinforcement Learning Hands-On) Maxim Lapan 劉立民  博碩文化](https://www.tenlong.com.tw/products/9789864344307?list_name=srh)
+  - [github](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On) 
+
+
 ### 
 ```
 
