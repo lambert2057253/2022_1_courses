@@ -51,6 +51,17 @@
 7.3 ColorGAN 的實現
 7.4 實現文字轉圖型
 7.5 實現句子轉圖型
+
+10 漸近增強式生成對抗網路
+10.1 堆疊式生成對抗網路StackGAN
+10.2 TensorFlow 資料處理
+10.3 漸近增長生成對抗網路PGGAN
+
+
+11 GAN 進行特徵學習
+11.1 近似推斷
+11.2 InfoGAN
+11.3 VAE-GAN
 ```
 
 ### [GAN 對抗式生成網路 (GANs in Action: Deep learning with Generative Adversarial Networks)Jakub Langr、Vladimir Bok 著 哈雷 譯 旗標科技(2020-09-07)](https://www.tenlong.com.tw/products/9789863126386?list_name=sp)
