@@ -50,6 +50,9 @@
 ```
 
 ### [GAN 對抗式生成網路 (GANs in Action: Deep learning with Generative Adversarial Networks)Jakub Langr、Vladimir Bok 著 哈雷 譯 旗標科技(2020-09-07)](https://www.tenlong.com.tw/products/9789863126386?list_name=sp)
+
+- [GITHUB](https://github.com/GANs-in-Action/gans-in-action)
+
 ```
 第 11 章 GAN 的實際應用
 11.1 GAN 在醫學方面的應用
