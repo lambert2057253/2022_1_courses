@@ -38,7 +38,9 @@
 - Mixing Image Characteristics
   - FineGAN(2019) 
   - MixNMatch(2020)
-
+- 馬賽克去除
+- 圖型修復
+- 逼真圖型的生成
 ## GAN應用與案例分析:論文
 - [Generative Adversarial Networks for Data Generation in Structural Health Monitoring](https://arxiv.org/abs/2112.08196)
 
