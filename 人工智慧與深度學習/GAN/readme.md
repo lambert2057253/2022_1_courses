@@ -105,6 +105,25 @@
 5.5 VAE在真實世界的比喻 108
 5.6 GAN和VAE兩個生成模型的比較 111
 ```
+### [Generative AI with Python and TensorFlow2 (2021)](https://www.packtpub.com/product/generative-ai-with-python-and-tensorflow-2/9781800200883)
+
+```
+1.	An Introduction to Generative AI: "Drawing" Data from Models
+2.	Setting Up a TensorFlow Lab
+3.	Building Blocks of Deep Neural Networks
+4.	Teaching Networks to Generate Digits
+5.	Painting Pictures with Neural Networks Using VAEs
+6.	Image Generation with GANs
+7.	Style Transfer with GANs
+8.	Deepfakes with GANs
+
+9.	The Rise of Methods for Text Generation
+10.	NLP 2.0: Using Transformers to Generate Text
+
+11.	Composing Music with Generative Models
+12.	Play Video Games with Generative AI: GAIL
+13.	Emerging Applications in Generative AI
+```
 
 ### 
 ```
