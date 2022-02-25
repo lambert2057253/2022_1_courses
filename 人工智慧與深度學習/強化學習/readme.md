@@ -29,7 +29,7 @@
 - [新一代AI霸主：深度強化學習從基礎開始到專案開發  董豪、丁子涵、仉尚航 深智數位](https://www.tenlong.com.tw/products/9789860776829?list_name=srh)
 - [動手做深度強化學習 (Deep Reinforcement Learning Hands-On) Maxim Lapan 劉立民  博碩文化](https://www.tenlong.com.tw/products/9789864344307?list_name=srh)
   - [github](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On) 
-
+- [深度強化學習實踐, 2/e (Deep Reinforcement Learning Hands-On, 2/e) Maxim Lapan 機械工業](https://www.tenlong.com.tw/products/9787111687382?list_name=srh)
 
 ### 
 ```
