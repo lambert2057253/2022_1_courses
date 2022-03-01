@@ -1,4 +1,4 @@
-## 推薦書籍 [Python 資料科學與機器學習() Frank Kane ](https://www.tenlong.com.tw/products/9789864347865?list_name=srh)
+## 推薦書籍 [Python 資料科學與機器學習 Frank Kane ](https://www.tenlong.com.tw/products/9789864347865?list_name=srh)
 - Hands-On Data Science and Machine Learning with Python
 - [GITHUB](https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning)
 ```
