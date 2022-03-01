@@ -99,8 +99,9 @@ Ch04 NumPy 的實務應用
 4-5-5 策略梯度法
 https://www.flag.com.tw/DL.asp?F9373
 ```
-## [Python 資料分析必備套件 Matt Harrison、Theodore Petrou 著 蔣佑仁、李侑穎 譯；施威銘研究室 監修 旗標科技](https://www.tenlong.com.tw/products/9789863126898)
+## [Python 資料分析必備套件 ](https://www.tenlong.com.tw/products/9789863126898)
 - Pandas 1.x Cookbook
+- Python 資料分析必備套件 Matt Harrison、Theodore Petrou 著 蔣佑仁、李侑穎 譯；施威銘研究室 監修 旗標科技
 - https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition
 ```
 ●IMDB 5000電影資料集
