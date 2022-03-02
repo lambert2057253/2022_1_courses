@@ -4,7 +4,7 @@
   - numpy
   - pandas
   - scipy
-
+  - statsmodels(統計分析)
 - 資料視覺化  Data Visulization
   - matplotlib
   - seaborn
