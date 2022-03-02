@@ -1,6 +1,6 @@
 ## Google Meet
 
-https://meet.google.com/uov-dour-cpp
+https://meet.google.com/cqo-aego-hwr
 
 ## 本課程學習核心: 
 
