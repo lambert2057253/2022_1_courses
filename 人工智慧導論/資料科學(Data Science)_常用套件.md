@@ -9,6 +9,8 @@
 - 科學計算  scientific calculation
   - sympy
   - scipy
+- 電腦視覺
+  - opencv
 - 資料視覺化  Data Visulization
   - matplotlib
   - seaborn
