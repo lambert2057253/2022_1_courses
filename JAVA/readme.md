@@ -2,7 +2,7 @@
 
 ## 視訊上課
 
-https://meet.google.com/dvi-mbpj-axz
+https://meet.google.com/wpz-rfbp-ukg
 
 ## 開發環境:Online Java Compiler IDE
 
