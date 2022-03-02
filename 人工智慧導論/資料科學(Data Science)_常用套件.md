@@ -16,7 +16,7 @@
 
 - 機器學習與人工智慧
   - Tensorflow
-  - Pytorch 
+  - Pytorch (torch)
 
 
 ## 作業: 確認開發環境的套件版本
