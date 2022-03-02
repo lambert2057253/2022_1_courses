@@ -2,6 +2,9 @@
 
 https://meet.google.com/cqo-aego-hwr
 
+## [ipas證照班報名](gg.gg/111ipas)
+
+
 ## 本課程學習核心: 
 
 - python 基本技術
