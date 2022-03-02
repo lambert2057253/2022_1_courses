@@ -32,4 +32,39 @@
 
 ## 作業 2:如何載入套件
 
+- import pandas as pd
+- import numpy as np 
+- import tensorflow as tf 
+
 ## 作業 3:如何學習或是使用套件
+```
+import numpy as np
+
+b = np.linspace(0, 2, 4)
+b
+
+# array([0.        , 0.66666667, 1.33333333, 2.        ])
+```
+```
+c = np.linspace(0, 2, 4, endpoint=False) 
+c
+
+# array([0. , 0.5, 1. , 1.5])
+```
+- 學習函式(function) linspace()的使用
+  - [官方說明 numpy.linspace](https://numpy.org/doc/stable/reference/generated/numpy.linspace.html)
+  - [Python numpy linspace用法及代碼示例](https://vimsky.com/zh-tw/examples/usage/python-numpy.linspace.html)
+```
+numpy.linspace(
+start, 
+stop, 
+num=50, == >
+endpoint=True, 
+retstep=False, 
+dtype=None, 
+axis=0)
+```
+- 學習重點:
+  - 函式(function)參數有哪些個?
+  - 那些參數有預設值?
+  - 那些 
