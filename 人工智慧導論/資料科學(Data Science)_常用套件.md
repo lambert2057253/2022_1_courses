@@ -66,5 +66,22 @@ axis=0)
 ```
 - 學習重點:
   - 函式(function)參數有哪些個?
-  - 那些參數有預設值?
-  - 那些 
+    - 那些參數有預設值?
+    - 那些參數一定要填
+  - 函式(function)回傳的資料
+    - 回傳的資料型態
+    - 可以有幾種接收值
+- 範例: numpy.linspace()
+  - 函式(function)參數有哪些個?
+    - 共有多少個參數? 7 個 ==> start, stop, num,endpoint, retstep, dtype, axis
+    - 那些參數有預設值?
+      - num=50,  預設值=>50
+      - endpoint=True, 預設值=>True
+      - retstep=False, 預設值=>False
+      - dtype=None, 預設值=>None
+      - axis=0   預設值=>0
+    - 那些參數一定要填
+      - start, stop,
+  - 函式(function)回傳的資料
+    - 回傳的資料型態 ==> ndarray
+    - 可以有幾種接收值 ===> ndarray
