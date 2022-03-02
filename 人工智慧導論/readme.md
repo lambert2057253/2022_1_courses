@@ -2,7 +2,7 @@
 
 https://meet.google.com/cqo-aego-hwr
 
-## [ipas證照班報名](https://gg.gg/111ipas)
+## [ipas證照班報名](https://docs.google.com/forms/d/e/1FAIpQLSdIMx18MWEOQswZk7P0qx26o9FzU6CJr6luCitwmPNUuBeKTw/viewform)
 
 
 ## 本課程學習核心: 
