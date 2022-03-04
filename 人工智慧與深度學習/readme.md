@@ -1,6 +1,6 @@
 ## Google Meet 
 
-https://meet.google.com/fxu-nqnu-yhh
+https://meet.google.com/avv-emuz-pkr
 
 ## python
 
