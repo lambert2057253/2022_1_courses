@@ -68,6 +68,13 @@
   - [Java中next與nextLine方法的區別](https://www.itread01.com/content/1541418722.html)
 
 # 第2章 資料型別與運算子
+
+### [資料型別data type](https://www.w3schools.com/java/java_data_types.asp)
+- 分成兩大類別:Data types are divided into two groups:
+  - Primitive(原生) data types - 包括 byte, short, int, long, float, double, boolean and char
+  - Non-primitive data types - 例如 String(字串), Arrays(陣列) and Classes(類別) 
+
+
 - 2-1程式範例說明
   - [1]0b11 ==> b== binary二進制
   - [2]011 ==> 0 代表八進制11
