@@ -29,7 +29,7 @@
     - public:公開的(大家都可以存取) ==> 修飾子
     - static:靜態的
     - String[] args ==> 存入函數的參數  ping -c 4 www.google.com
-  - [4]Scanner scn = new Scanner(System.in);	==> 建立 Scanner 物件 scn
+  - [4]Scanner scn = new Scanner(System.in);	==> 建立 Scanner 物件 scn | Scanner():建構子
     - 左邊 Scanner scn ==> 宣告scn變數是 Scanner類別的資料型態
     - 右邊 new Scanner(System.in) ==> new(建立物件)  
       - Java.lang.System 類別 ==> 系統輸入|輸出|錯誤 使用的類別
@@ -92,9 +92,9 @@ public class Ex02_01 {
 - 2-2程式範例說明
   - [1]
   - [2]
-  - [3]
-  - [4]
-  - [5]
+  - [3]0b11 ==> b== binary二進制
+  - [4]011 ==> 0 代表八進制11
+  - [5]0x ==>0x 代表十六進制
   - [6]
   - [7]
   - [8]
