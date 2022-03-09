@@ -2,7 +2,7 @@
 
 ## 視訊上課
 
-https://meet.google.com/wpz-rfbp-ukg
+https://meet.google.com/ark-pgaa-dfp
 
 ## 開發環境:Online Java Compiler IDE
 
