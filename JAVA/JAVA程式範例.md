@@ -118,7 +118,134 @@ public class Ex02_02 {
   - [9]
   - [10]
 ```java
-
+public class Ex02_03 {
+	public static void main(String[] args) {
+		final double basicRate = 1.2;
+		System.out.println("一年期定存利率為 " + (basicRate + 0.1));
+		System.out.println("兩年期定存利率為 " + (basicRate + 0.2));
+	}
+}
+```
+- 2-4程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+import java.util.Scanner;
+public class Ex02_04 {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		System.out.print("請輸入資料：");
+		var inputData = scn.next();
+		System.out.println("您輸入的資料是 "+ inputData);
+		scn.close();
+	}
+}
+```
+- 2-5程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_05 {
+	public static void main(String[] args) {
+		int num1=10,num2=3;	// 宣告num1和num2為整數變數
+		System.out.println(num1 + " - " + num2 + " = " + (num1 - num2));
+		System.out.println(num1 + " * " + num2 + " = " + (num1 * num2));
+		System.out.println(num1 + " / " + num2 + " = " + (num1 / num2));
+	}
+}
+```
+- 2-6程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_06 {
+	public static void main(String[] args) {
+		int a = 10;	// 宣告a為整數，初值為10
+		System.out.println("a = " + a );
+		int b = a++; 	// a++為後置式
+		System.out.println("b = a++ ： a = " + a + ",  b = " + b);
+		b = ++a; 		// ++a為前置式
+		System.out.println("b = ++a ： a = " + a + ",  b = " + b);
+		b = a--; 		// a--為後置式
+		System.out.println("b = a-- ： a = " + a + ",  b = " + b);
+		b = --a; 		//  --a為前置式
+		System.out.println("b = --a ： a = " + a + ",  b = " + b);
+	}
+}
+```
+- 2-7程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_07 {
+	public static void main(String[] args) {
+		int a = 10, b = 3;
+		System.out.println("a = " + a + ", b = " + b);
+		boolean c = a < b;
+		System.out.println("a < b = " + c);
+		c = a > b;
+		System.out.println("a > b = " + c);
+		c = (a == b);
+		System.out.println("a == b = " + c);
+	}
+}
+```
+- 2-8程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_08 {
+	public static void main(String[] args) {
+		int a=1,b=1,c=1;
+		System.out.println("a = " + a + ", b = " + b + ", c = " + c);
+		System.out.println("a=b | a=c = " + (a==b | a==c));
+		System.out.println("a=b || a=c = " + (a==b || a==c));
+		System.out.println("a>b && a++>c = " + (a>b && a++>c));
+		System.out.println("a = " + a + ", b = " + b );		
+		System.out.println("a>b & a++>c = " + (a>b & a++>c));
+		System.out.println("a = " + a + ", b = " + b );	
+	}
+}
 ```
 - 2-3程式範例說明
   - [1]
@@ -134,7 +261,7 @@ public class Ex02_02 {
 ```java
 
 ```
-- 2-3程式範例說明
+- 2-9程式範例說明
   - [1]
   - [2]
   - [3]
@@ -146,7 +273,187 @@ public class Ex02_02 {
   - [9]
   - [10]
 ```java
+public class Ex02_09 {
+	public static void main(String[] args) {
+		byte a = 52,b = 15;
+		System.out.println("a = " + a + ", b = " + b);
+		System.out.println("~ a = " + ~a);
+		System.out.println("a & b = " + (a & b));
+		System.out.println("a | b = " + (a | b));
+		System.out.println("a ^ b = " + (a ^ b));
+	}
+}
+```
+- 2-10程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_10 {
+	public static void main(String[] args) {
+		int a = 10, b = 5;
+		System.out.println("a = " + a + ", b = " + b);
+		System.out.println("a | b = " + (a | b)); 
+		boolean c = true, d = false;
+		System.out.println("c = " + c + ", d = " + d);
+		System.out.println("c | d = " + (c | d)); 
+	}
+}
+```
 
+- 2-11程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_11 {
+	public static void main(String[] args) {
+		int a = 16;
+		System.out.println("a = 16, a << 1 = " + (a << 1));
+		System.out.println("a = 16, a << 2 = " + (a << 2));
+		System.out.println("a = 16, a >> 2 = " + (a >> 2));
+		a = 35;
+		System.out.println("a = 35, a >> 2 = " + (a >> 2));
+		a = -16;
+		a >>= 1;
+		System.out.println("a = -8, a >> 2 = " + (a >> 2));
+		System.out.println("a = -8, a << 2 = " + (a << 2));
+	}
+}
+```
+- 2-12程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_12 {
+	public static void main(String[] args) {
+		double total;
+		int income = 10000;
+		total = income;			// 資料型別自動轉換
+		System.out.println("total = " + total);
+		// income = total;     // 若加入此行，會產生編譯錯誤
+	}
+}
+```
+- 2-13程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_13 {
+	public static void main(String[] args) {
+		int sum;
+		float score1 = 60.5F;
+		long score2 = 100;
+		sum = (int) score1;		   // 資料型別強制轉換
+		System.out.println("sum = " + sum); 
+		sum = (int) (score1 + score2);	   // 資料型別強制轉換
+		System.out.println("sum = " + sum);
+	}
+}
+```
+- 2-14程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_14 {
+	public static void main(String[] args) {
+		int[] a;
+		a = new int[] { 1, 2, 3 };
+		int[] n = a;
+		System.out.println("a[0]=" + a[0] + "\ta[1]=" + a[1] + "\ta[2]=" + a[2]);
+		System.out.println("n[0]=" + n[0] + "\tn[1]=" + n[1] + "\tn[2]=" + n[2]);
+		n[1] = 15;
+		System.out.println("-------------------------");
+		System.out.println("a[0]=" + a[0] + "\ta[1]=" + a[1] + "\ta[2]=" + a[2]);
+		System.out.println("n[0]=" + n[0] + "\tn[1]=" + n[1] + "\tn[2]=" + n[2]);
+	}
+}
+```
+- 2-15程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+public class Ex02_15 {
+	public static void main(String[] args) {
+		String title = "價格：NT";
+		int money = 128;
+		double tax = money * 0.05;
+		System.out.printf("%s%5d元, 稅金：%.1f元%n", title, money, tax);
+	}
+}
+```
+- 2-16程式範例說明
+  - [1]
+  - [2]
+  - [3]
+  - [4]
+  - [5]
+  - [6]
+  - [7]
+  - [8]
+  - [9]
+  - [10]
+```java
+import java.util.Scanner;
+public class Ex02_16 {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		System.out.print("請輸入您的姓名：");
+		String name = scn.nextLine(); // 讀入一行字串並指定給name字串變數
+		System.out.printf("%s 您好!!%n", name);
+		System.out.print("請輸入兩個整數，中間用空白間隔：");
+		int num1 = scn.nextInt(); // 讀入一個整數並指定給age變數
+		int num2 = scn.nextInt(); // 讀入一個整數並指定給age變數
+		System.out.printf("%d + %d = %d%n", num1, num2, num1 + num2);
+		scn.close();
+	}
+}
 ```
 - 2-3程式範例說明
   - [1]
@@ -161,8 +468,7 @@ public class Ex02_02 {
   - [10]
 ```java
 
-```
-- 2-3程式範例說明
+```- 2-3程式範例說明
   - [1]
   - [2]
   - [3]
@@ -175,8 +481,7 @@ public class Ex02_02 {
   - [10]
 ```java
 
-```
-- 2-3程式範例說明
+```- 2-3程式範例說明
   - [1]
   - [2]
   - [3]
@@ -189,36 +494,7 @@ public class Ex02_02 {
   - [10]
 ```java
 
-```
-- 2-3程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
-```java
-
-```
-- 2-3程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
-```java
-
-```
-- 2-3程式範例說明
+```- 2-3程式範例說明
   - [1]
   - [2]
   - [3]
