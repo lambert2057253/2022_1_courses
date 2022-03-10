@@ -3,9 +3,6 @@
 https://meet.google.com/wqv-wbcs-ppq
 
 
-##
-
-
 # 開發環境下載
 - [Kali系統下載區](https://drive.google.com/file/d/1sLZq9QoV_YrsLV7m3WJwq7NvO-pMuZc7/view?usp=sharing)
 - [Ubuntu 18.04LTS系統下載區(感謝陳憶賢博士提供)](https://drive.google.com/file/d/1QPy_Ztk5Gl1ZkHRRCCytEJRem0KjItOw/view?usp=sharing)
@@ -33,6 +30,7 @@ https://meet.google.com/wqv-wbcs-ppq
 
 
 # C 程式開發
+- Windows開發環境 [MSYS2](https://www.msys2.org/)
 - [Visual Studio code官方說明文獻](https://code.visualstudio.com/docs)
   - [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo) 
   - [Extensions for the Visual Studio family of products](https://marketplace.visualstudio.com/vscode)
