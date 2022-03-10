@@ -14,6 +14,10 @@ https://meet.google.com/wqv-wbcs-ppq
   - Fuzzer 
 - 安全程式開發(Secure coding) ==> 如何開發具有安全的程式
 
+# 資安人員未來
+
+- [國安局特考資訊組](https://www.public.com.tw/exam-civilservice/security-information-overview)
+
 # Topics
 - C security
 - C++ Security
