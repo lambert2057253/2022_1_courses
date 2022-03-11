@@ -1,6 +1,6 @@
 ## Google Meet 
 
-https://meet.google.com/avv-emuz-pkr
+https://meet.google.com/bxw-rhwm-rzi
 
 ## [ipas證照班報名](https://docs.google.com/forms/d/e/1FAIpQLSdIMx18MWEOQswZk7P0qx26o9FzU6CJr6luCitwmPNUuBeKTw/viewform)
 
