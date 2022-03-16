@@ -147,7 +147,23 @@ obj.index = ['Bob', 'Steve', 'Jeff', 'Ryan']
 obj
 
 ```
+#### 加分作業:研讀底下參考資料並完成實務演練
 
+[Pandas 資料分析實戰：使用 Python 進行高效能資料處理及分析 (Learning pandas : High-performance data manipulation and analysis in Python, 2/e) Michael Heydt ](https://www.tenlong.com.tw/products/9789864343898)
+  - [GITHUB](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition) 
+  - Chapter 3：用序列表示單變數資料
+    - 3.1 設定pandas
+    - 3.2 建立序列
+    - 3.3 .index及.values屬性
+    - 3.4 序列的大小及形狀
+    - 3.5 在序列建立時指定索引
+    - 3.6 頭、尾、選取
+    - 3.7 以索引標籤或位置提取序列值
+    - 3.8 把序列切割成子集合
+    - 3.9 利用索引標籤實現對齊
+    - 3.10 執行布林選擇
+    - 3.11 將序列重新索引
+    - 3.12 原地修改序列
 
 
 ### 1_2_DataFrame的運算 see [CHAPTER 5 Getting Started with pandas](https://github.com/LearnXu/pydata-notebook/blob/master/Chapter-05/5.1%20Introduction%20to%20pandas%20Data%20Structures%EF%BC%88pandas%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%89.ipynb)
