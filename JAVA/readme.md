@@ -4,10 +4,27 @@
 
 https://meet.google.com/ark-pgaa-dfp
 
-## 開發環境:Online Java Compiler IDE
+## 開發環境1:Online Java Compiler IDE
 
 - [JDoodle](https://www.jdoodle.com/online-java-compiler/)
 
+## 開發環境2: Java Development Kit (JDK) 我們要用的
+- [How to Install Java JDK on Windows 10 ( with JAVA_HOME )](https://www.youtube.com/watch?v=IJ-PJbvJBGs&ab_channel=ProgrammingKnowledge)
+- [How to Install Java JDK on Windows 11 ( with JAVA_HOME )](https://www.youtube.com/watch?v=VTzzmqNwGzM&ab_channel=ProgrammingKnowledge)
+- Java Development Kit (JDK) 我們要用的
+  - [下載點](https://www.java.com/en/download/help/develop.html)
+  - C:\Program Files\Java\jdk-17.0.2\bin
+  - cd C:\Program Files\Java\jdk-17.0.2\bin
+- Java Runtime Environment (JRE)
+  - C:\Program Files (x86)\Java\jre1.8.0_321\bin
+    - 沒有javac
+    - java
+```
+C:\Program Files (x86)\Java\jre1.8.0_321\bin>java -version
+java version "1.8.0_321"
+Java(TM) SE Runtime Environment (build 1.8.0_321-b07)
+Java HotSpot(TM) Client VM (build 25.321-b07, mixed mode, sharing)
+```
 
 ## 教科書
 
