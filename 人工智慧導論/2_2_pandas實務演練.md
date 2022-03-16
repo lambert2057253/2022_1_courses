@@ -272,8 +272,9 @@ frame2.values
 ```
 
 ## 3_2_pandas_20220311 pandas資料匯入與資料清理(Data cleaning)
-
-## [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
+- [Pandas 資料分析實戰：使用 Python 進行高效能資料處理及分析 (Learning pandas : High-performance data manipulation and analysis in Python, 2/e) Michael Heydt ](https://www.tenlong.com.tw/products/9789864343898)
+  - [GITHUB](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition) 
+  - [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
 ```
 !wget https://raw.githubusercontent.com/PacktPublishing/Learning-Pandas-Second-Edition/master/data/msft.csv
 ```
