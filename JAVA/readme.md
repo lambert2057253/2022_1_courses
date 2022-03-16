@@ -15,7 +15,10 @@ https://meet.google.com/ark-pgaa-dfp
   - [下載點](https://www.java.com/en/download/help/develop.html)
   - C:\Program Files\Java\jdk-17.0.2\bin
   - cd C:\Program Files\Java\jdk-17.0.2\bin
-- Java Runtime Environment (JRE)
+  - 正確安裝後要設定
+    - 1.設定環境變數: 把C:\Program Files\Java\jdk-17.0.2\bin加入到PATH
+    - 2.在user的使用者環境變數新增 JAVA_HOME  <== 填入  C:\Program Files\Java\jdk-17.0.2
+- Java Runtime Environment (JRE) 只能執行| 不能編譯
   - C:\Program Files (x86)\Java\jre1.8.0_321\bin
     - 沒有javac
     - java
