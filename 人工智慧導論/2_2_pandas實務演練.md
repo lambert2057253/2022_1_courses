@@ -166,25 +166,111 @@ obj
     - 3.12 原地修改序列
 
 
-### 1_2_DataFrame的運算 see [CHAPTER 5 Getting Started with pandas](https://github.com/LearnXu/pydata-notebook/blob/master/Chapter-05/5.1%20Introduction%20to%20pandas%20Data%20Structures%EF%BC%88pandas%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%89.ipynb)
+## 1_2_DataFrame的運算 see [CHAPTER 5 Getting Started with pandas](https://github.com/LearnXu/pydata-notebook/blob/master/Chapter-05/5.1%20Introduction%20to%20pandas%20Data%20Structures%EF%BC%88pandas%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%89.ipynb)
 - 建立DataFrame
-  - 使用pandas.Series() 
-  - 使用字典資料型態傳入pandas.Series() 
+
 - 搜尋滿足條件的資料
 
+### (1)建立DataFrame: 使用python dict 資料型態 + dict裡的value是list 資料型態
 ```python
+data = {'state': ['Ohio', 'Ohio', 'Ohio', 'Nevada', 'Nevada', 'Nevada'], 
+        'year': [2000, 2001, 2002, 2001, 2002, 2003], 
+        'pop': [1.5, 1.7, 3.6, 2.4, 2.9, 3.2]}
 
+frame = pd.DataFrame(data)
+
+frame
+```
+
+### 顯示資料的技術
+```python
+frame.head()
 ```
 
 
 ```python
+pd.DataFrame(data, columns=['year', 'state', 'pop'])
+```
+### missing value
+```python
+frame2 = pd.DataFrame(data, columns=['year', 'state', 'pop', 'debt'], 
+                      index=['one', 'two', 'three', 'four', 'five', 'six'])
+frame2
 
+frame2.columns
 ```
 
+## 資料提取
+- 提取一column(列)
+- 提取一row(行)
+### 從DataFrame提取一列(底下兩種提取方法)== > 回傳給你一個series
+```python
+frame2['state']
+frame2.year
+```
+### 從DataFrame提取一row(行)
+
+```python
+frame2.loc['three']
+```
+### 資料變更(賦值)的幾種範例
+```python
+frame2['debt'] = 16.5
+frame2
+```
+
+```python
+frame2['debt'] = np.arange(6.)
+frame2
+```
+
+```python
+val = pd.Series([-1.2, -1.5, -1.7], index=['two', 'four', 'five'])
+frame2['debt'] = val
+frame2
+## 特別注意結果
+```
+
+```python
+frame2['eastern'] = frame2.state == 'Ohio'
+frame2
+```
+
+#### 刪除資料
+```python
+del frame2['eastern']
+
+frame2.columns
+```
+
+### (2)建立Data Frame的情境 == >
+```python
+pop = {'Nevada': {2001: 2.4, 2002: 2.9},
+       'Ohio': {2000: 1.5, 2001: 1.7, 2002: 3.6}}
+
+frame3 = pd.DataFrame(pop)
+frame3
+```
 
 ```python
 
 ```
+### (3)建立Data Frame的情境 == > 使用python dict + series
+
+```python
+pdata = {'Ohio': frame3['Ohio'][:-1],
+         'Nevada': frame3['Nevada'][:2]}
+pd.DataFrame(pdata)
+```
+
+
+```python
+frame3.index.name = 'year'; frame3.columns.name = 'state'
+frame3
+frame3.values
+frame2.values
+```
+
 ## 3_2_pandas_20220311 pandas資料匯入與資料清理(Data cleaning)
 
 ## [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
@@ -197,4 +283,47 @@ obj
 ```
 msft = pd.read_csv("./msft.csv")
 msft[:5]
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
 ```
