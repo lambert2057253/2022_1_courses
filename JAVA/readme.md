@@ -38,6 +38,13 @@ Java HotSpot(TM) Client VM (build 25.321-b07, mixed mode, sharing)
 
 - [Java 與 Unicode](https://ithelp.ithome.com.tw/articles/10082051)
 
+```
+d:\A999E168>javac -encoding utf-8 Hi.java
+
+d:\A999E168>java Hi
+請輸入姓名：tseng
+Hi! tseng, 歡迎來到Java世界！
+```
 ## 教科書
 
 - Java SE 12基礎必修課(適用Java 12~10，涵蓋OCJP與MTA Java國際認證)
