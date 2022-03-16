@@ -270,61 +270,30 @@ frame3
 frame3.values
 frame2.values
 ```
+#### 加分作業:研讀底下參考資料並完成實務演練
 
-## 3_2_pandas_20220311 pandas資料匯入與資料清理(Data cleaning)
-- [Pandas 資料分析實戰：使用 Python 進行高效能資料處理及分析 (Learning pandas : High-performance data manipulation and analysis in Python, 2/e) Michael Heydt ](https://www.tenlong.com.tw/products/9789864343898)
+[Pandas 資料分析實戰：使用 Python 進行高效能資料處理及分析 (Learning pandas : High-performance data manipulation and analysis in Python, 2/e) Michael Heydt ](https://www.tenlong.com.tw/products/9789864343898)
   - [GITHUB](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition) 
-  - [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
-```
-!wget https://raw.githubusercontent.com/PacktPublishing/Learning-Pandas-Second-Edition/master/data/msft.csv
-```
-```
-!head -n 5 msft.csv 
-```
-```
-msft = pd.read_csv("./msft.csv")
-msft[:5]
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
+  - Chapter 4：用資料框表示表格及多變數資料
+    - 4.1 設定pandas
+    - 4.2 建立資料框物件
+    - 4.3 存取資料框的資料
+    - 4.4 利用布林選擇選取列
+    - 4.5 跨越行與列進行選取
+  - Chapter 5：操控資料框結構
+    - 5.1 設定pandas
+    - 行columns的各種運算
+      - 5.2 重新命名行Renaming columns
+      - 5.3 利用[]及.insert()增加新行
+      - 5.4 利用擴展增加新行
+      - 5.5 利用串連增加新行
+      - 5.6 改變行的順序
+      - 5.7 取代行的內容
+      - 5.8 刪除行
+    - 列columns的各種運算
+      - 5.9 附加新列
+      - 5.10 列的串連
+      - 5.11 經由擴展增加及取代列
+      - 5.12 使用.drop()移除列
+      - 5.13 利用布林選擇移除列
+      - 5.14 使用切割移除列
