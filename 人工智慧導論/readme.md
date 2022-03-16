@@ -1,8 +1,8 @@
 ## Google Meet
 
-https://meet.google.com/ych-yqkj-ker
+https://meet.google.com/rbx-csan-xkc
 
-## [ipas證照班報名](https://docs.google.com/forms/d/e/1FAIpQLSdIMx18MWEOQswZk7P0qx26o9FzU6CJr6luCitwmPNUuBeKTw/viewform)
+
 
 
 ## 本課程學習核心: 
