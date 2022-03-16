@@ -129,7 +129,7 @@ obj4
 obj3 + obj4
 ```
 
-#### series  name屬性的運用
+#### series  `name屬性`的運用
 - series自身和它的index都有一個叫name的屬性
 
 ```python
