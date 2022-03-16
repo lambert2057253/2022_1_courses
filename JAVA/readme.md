@@ -28,6 +28,10 @@ java version "1.8.0_321"
 Java(TM) SE Runtime Environment (build 1.8.0_321-b07)
 Java HotSpot(TM) Client VM (build 25.321-b07, mixed mode, sharing)
 ```
+## 程式開發
+- 1.使用notepad++ 開發程式 ==> Hi2.java
+- 2.編譯  javac Hi2.java  ==> 產生Hi2.class
+- 3.執行檔案  java Hi2
 
 ## 教科書
 
