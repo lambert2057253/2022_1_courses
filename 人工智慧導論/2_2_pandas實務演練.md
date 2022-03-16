@@ -17,12 +17,158 @@
   - 使用字典資料型態傳入pandas.Series() 
 - 搜尋滿足條件的資料
 
+
+#### (1)使用[pandas.Series()](https://pandas.pydata.org/docs/reference/api/pandas.Series.html) 建立Series
+```python
+obj = pd.Series([41, 27, -25, 13,21])
+obj
+```
+
+
+```python
+obj.values
+```
+
+
+```python
+obj.index
+```
+
+#### (2)使用[pandas.Series()](https://pandas.pydata.org/docs/reference/api/pandas.Series.html) 建立Series
+```python
+obj2 = pd.Series([4, 7, -5, 3], index=['d', 'b', 'a', 'c'])
+obj2
+```
+```python
+obj2.values
+```
+
+
+```python
+obj2.index
+```
+
+#### 透過index(索引)進行搜尋
+
+```python
+obj2['a']
+```
+
+
+```python
+obj2[['c', 'a', 'd']]
+```
+#### 透過index(索引)進行設定
+
+```python
+obj2['d'] = 6
+```
+
+
+```python
+obj2[['c', 'a', 'd']]
+```
+#### 更多運算
+```python
+obj2[obj2 > 0]
+```
+
+
+```python
+obj2 * 2
+```
+
+```python
+import numpy as np
+np.exp(obj2)
+```
+
+#### 利用dict來創建series
+```python
+sdata = {'Ohio': 35000, 'Texas': 71000, 'Oregon':16000, 'Utah': 5000}
+
+obj3 = pd.Series(sdata)
+obj3
+```
+
+
+```python
+states = ['California', 'Ohio', 'Oregon', 'Texas']
+
+obj4 = pd.Series(sdata, index=states)
+obj4
+```
+#### 使用pandas的isnull和notnull函數檢測MISSING Value(缺失資料)
+```python
+pd.isnull(obj4)
+```
+
+
+```python
+pd.notnull(obj4)
+```
+
+```python
+obj4.isnull()
+```
+
+#### Series自動排序(Data alignment features)
+- Series自動按index label來排序
+
+
+```python
+obj3
+```
+
+```python
+obj4
+```
+
+
+```python
+obj3 + obj4
+```
+
+#### series  name屬性的運用
+- series自身和它的index都有一個叫name的屬性
+
+```python
+obj4.name = 'population'
+
+obj4.index.name = 'state'
+
+obj4
+```
+#### 更改 series的index
+
+```python
+obj
+obj.index = ['Bob', 'Steve', 'Jeff', 'Ryan']
+obj
+
+```
+
+
+
 ### 1_2_DataFrame的運算 see [CHAPTER 5 Getting Started with pandas](https://github.com/LearnXu/pydata-notebook/blob/master/Chapter-05/5.1%20Introduction%20to%20pandas%20Data%20Structures%EF%BC%88pandas%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%89.ipynb)
 - 建立DataFrame
   - 使用pandas.Series() 
   - 使用字典資料型態傳入pandas.Series() 
 - 搜尋滿足條件的資料
 
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
 ## 3_2_pandas_20220311 pandas資料匯入與資料清理(Data cleaning)
 
 ## [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
