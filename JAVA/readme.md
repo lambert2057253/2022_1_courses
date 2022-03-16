@@ -33,6 +33,11 @@ Java HotSpot(TM) Client VM (build 25.321-b07, mixed mode, sharing)
 - 2.編譯  javac Hi2.java  ==> 產生Hi2.class
 - 3.執行檔案  java Hi2
 
+
+## JAVA與中文
+
+- [Java 與 Unicode](https://ithelp.ithome.com.tw/articles/10082051)
+
 ## 教科書
 
 - Java SE 12基礎必修課(適用Java 12~10，涵蓋OCJP與MTA Java國際認證)
