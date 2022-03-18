@@ -9,6 +9,11 @@
     - 6.5 階層式索引
 
 ## 4_pandas_20220311 pandas資料匯入與資料清理(Data cleaning)
+- [經典:Python 資料分析, 2/e](https://www.tenlong.com.tw/products/9789864769254)
+  - [GITHUB](https://github.com/wesm/pydata-book) 
+  - [中譯](https://github.com/LearnXu/pydata-notebook/tree/master/)
+  - 第六章 資料載入、儲存和檔案格式
+  - 第七章 資料整理和前處理
 - [Pandas 資料分析實戰：使用 Python 進行高效能資料處理及分析 (Learning pandas : High-performance data manipulation and analysis in Python, 2/e) Michael Heydt ](https://www.tenlong.com.tw/products/9789864343898)
   - [GITHUB](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition) 
   - [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
