@@ -28,7 +28,16 @@
   - 9.8 讀寫SQL資料庫
   - 9.9 從遠端資料服務讀取資料
 
-## 9.2 處理CSV及文字/表格格式的資料 ==> [pandas.read_csv()](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
+## 1_讀寫CSV檔案 
+- see 9.2 處理CSV及文字/表格格式的資料 
+- [pandas.read_table](https://pandas.pydata.org/docs/reference/api/pandas.read_table.html)
+- 讀取CSV [pandas.read_csv()](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
+  - 熟悉各種讀取參數用法
+  - index_col
+  - nrows
+  - skiprows
+  - skipfooter
+- 寫入CSV [pandas.DataFrame.to_csv()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html#pandas-dataframe-to-csv)
 
 #### 先下載遠端資料到Google Colab 
 ```
@@ -55,17 +64,30 @@ msft[:5]
 ```python
 
 ```
-
-
+#### 寫入CSV Saving a DataFrame to a CSV ==> [pandas.DataFrame.to_csv()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html#pandas-dataframe-to-csv)
+```PYTHON
+# read in data only in the Date and Close columns
+# and index by the Date column
+df2 = pd.read_csv("./msft.csv", 
+                  usecols=['Date', 'Close'], 
+                  index_col=['Date'])
+df2[:5]
+```
 ```python
-
+# save df2 to a new csv file
+# also specify naming the index as date
+df2.to_csv("./msft_A999168.csv", index_label='date')
+```
+```
+# view the start of the file just saved
+!head -n 5 ./msft_A999168.csv
 ```
 
 ```python
 
 ```
 
-
+### 2_讀寫excel檔案
 ```python
 
 ```
