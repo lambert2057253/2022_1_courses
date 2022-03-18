@@ -123,6 +123,8 @@ df.to_excel("./stocks2.xls")
 ```
 
 ### 3_讀寫 JSON 檔案
+- [JSON](https://zh.wikipedia.org/wiki/JSON)
+- XML vs JSON
 - Reading and writing JSON files
 
 ```python
