@@ -130,5 +130,8 @@ df.to_excel("./stocks2.xls")
 ```python
 
 ```
-### 4_讀取網頁表格資料 [pandas.read_html](https://pandas.pydata.org/docs/reference/api/pandas.read_html.html)
-- [[Pandas教學]掌握Pandas DataFrame讀取網頁表格的實作技巧](https://www.learncodewithmike.com/2020/11/read-html-table-using-pandas.html)
+### 4_讀取網頁表格資料 
+- [pandas.read_html()](https://pandas.pydata.org/docs/reference/api/pandas.read_html.html)
+  - [[Pandas教學]掌握Pandas DataFrame讀取網頁表格的實作技巧](https://www.learncodewithmike.com/2020/11/read-html-table-using-pandas.html)  
+- [pandas.DataFrame.to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html)
+  - [[Pandas教學]利用Pandas套件的to_html方法在網頁快速顯示資料分析結果](https://www.learncodewithmike.com/2021/07/pandas-to-html.html) 
