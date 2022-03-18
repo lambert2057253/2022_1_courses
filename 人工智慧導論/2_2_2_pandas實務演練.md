@@ -17,9 +17,24 @@
 - [Pandas 資料分析實戰：使用 Python 進行高效能資料處理及分析 (Learning pandas : High-performance data manipulation and analysis in Python, 2/e) Michael Heydt ](https://www.tenlong.com.tw/products/9789864343898)
   - [GITHUB](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition) 
   - [Ch9](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/Chapter09/09_Accessing_Data.ipynb)
+  - Chapter 9：存取資料
+  - 9.1 設定pandas
+  - 9.2 處理CSV及文字/表格格式的資料
+  - 9.3 讀寫Excel格式資料
+  - 9.4 讀寫JSON檔案
+  - 9.5 從網站讀取HTML資料
+  - 9.6 讀寫HDF5格式檔案
+  - 9.7 存取網站上的CSV資料
+  - 9.8 讀寫SQL資料庫
+  - 9.9 從遠端資料服務讀取資料
+
+## 9.2 處理CSV及文字/表格格式的資料 ==> pandas.read_csv()
+
+#### 先下載遠端資料到Google Colab 
 ```
 !wget https://raw.githubusercontent.com/PacktPublishing/Learning-Pandas-Second-Edition/master/data/msft.csv
 ```
+#### 檢視資料
 ```
 !head -n 5 msft.csv 
 ```
