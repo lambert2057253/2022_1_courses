@@ -89,6 +89,7 @@ df2.to_csv("./msft_A999168.csv", index_label='date')
 ```
 
 ### 2_讀寫excel檔案 Reading and writing data in Excel format
+- [下載excel檔案](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/data/stocks.xlsx)
 ```python
 
 ```
