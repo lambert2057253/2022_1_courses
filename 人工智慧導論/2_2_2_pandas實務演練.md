@@ -34,9 +34,10 @@
 - 讀取CSV [pandas.read_csv()](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
   - 熟悉各種讀取參數用法
   - index_col
-  - nrows
-  - skiprows
-  - skipfooter
+  - nrows：僅讀取⼀定的⾏數
+  - skiprows：跳過⼀定的⾏數
+  - skipfooter：尾部有固定的⾏數永不讀取
+  - skip_blank_lines：空⾏跳過
 - 寫入CSV [pandas.DataFrame.to_csv()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html#pandas-dataframe-to-csv)
 
 #### 先下載遠端資料到Google Colab 
