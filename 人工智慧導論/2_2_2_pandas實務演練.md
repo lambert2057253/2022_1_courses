@@ -28,7 +28,7 @@
   - 9.8 讀寫SQL資料庫
   - 9.9 從遠端資料服務讀取資料
 
-## 9.2 處理CSV及文字/表格格式的資料 ==> pandas.read_csv()
+## 9.2 處理CSV及文字/表格格式的資料 ==> [pandas.read_csv()](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
 
 #### 先下載遠端資料到Google Colab 
 ```
@@ -38,14 +38,17 @@
 ```
 !head -n 5 msft.csv 
 ```
+#### Reading a CSV into a DataFrame
 ```
 msft = pd.read_csv("./msft.csv")
 msft[:5]
 ```
 
-
+#### Specifying the index column when reading a CSV file
 ```python
-
+# use column 0 as the index
+msft = pd.read_csv("./msft.csv", index_col=0)
+msft[:5]
 ```
 
 
