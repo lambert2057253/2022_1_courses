@@ -32,7 +32,7 @@
 - see 9.2 處理CSV及文字/表格格式的資料 
 - [pandas.read_table](https://pandas.pydata.org/docs/reference/api/pandas.read_table.html)
 - 讀取CSV [pandas.read_csv()](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
-  - 熟悉各種讀取參數用法
+  - 熟悉各種讀取參數用法  [pandas.read_csv参数详解](https://www.cnblogs.com/datablog/p/6127000.html)
   - index_col
   - nrows：僅讀取⼀定的⾏數
   - skiprows：跳過⼀定的⾏數
@@ -88,7 +88,7 @@ df2.to_csv("./msft_A999168.csv", index_label='date')
 
 ```
 
-### 2_讀寫excel檔案
+### 2_讀寫excel檔案 Reading and writing data in Excel format
 ```python
 
 ```
