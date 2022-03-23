@@ -86,10 +86,11 @@ df2.to_csv("./msft_A999168.csv", index_label='date')
 ```
 
 ### 各式csv的讀取 
-
-```python
-
-```
+- 去除頭部說明文字
+- 去除底部說明文字
+- 讀取部分欄位
+- 讀取部分資料
+  - [參考程式 GITHUB](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition) 
 
 ### 2_讀寫excel檔案 Reading and writing data in Excel format
 - [下載excel檔案](https://github.com/PacktPublishing/Learning-Pandas-Second-Edition/blob/master/data/stocks.xlsx)
