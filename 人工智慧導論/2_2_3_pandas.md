@@ -61,9 +61,9 @@ msft = pd.read_csv("./msft.csv", index_col=0)
 msft[:5]
 ```
 
-
 ```python
-
+df3 = pd.read_csv("./msft.csv", usecols=['Date', 'Close'])
+df3[:5]
 ```
 #### 寫入CSV Saving a DataFrame to a CSV ==> [pandas.DataFrame.to_csv()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html#pandas-dataframe-to-csv)
 ```PYTHON
