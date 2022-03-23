@@ -33,7 +33,7 @@
 - [pandas.read_table](https://pandas.pydata.org/docs/reference/api/pandas.read_table.html)
 - 讀取CSV [pandas.read_csv()](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
   - 熟悉各種讀取參數用法  [pandas.read_csv参数详解](https://www.cnblogs.com/datablog/p/6127000.html)
-  - index_col
+  - index_col:指定使用某欄位當作索引
   - nrows：僅讀取⼀定的⾏數
   - skiprows：跳過⼀定的⾏數
   - skipfooter：尾部有固定的⾏數永不讀取
