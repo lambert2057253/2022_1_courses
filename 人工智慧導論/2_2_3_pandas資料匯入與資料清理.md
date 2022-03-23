@@ -113,7 +113,7 @@ df[:5]
 ### 讀取不同試算表
 ```python
 # read from the aapl worksheet
-aapl = pd.read_excel("./stocks.xlsx", sheetname='aapl')
+aapl = pd.read_excel("./stocks.xlsx", sheet_name='aapl')
 aapl[:5]
 ```
 
