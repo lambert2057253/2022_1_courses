@@ -85,6 +85,8 @@ df2.to_csv("./msft_A999168.csv", index_label='date')
 !head -n 5 ./msft_A999168.csv
 ```
 
+### 各式csv的讀取 
+
 ```python
 
 ```
