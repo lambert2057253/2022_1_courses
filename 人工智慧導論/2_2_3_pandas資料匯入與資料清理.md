@@ -27,6 +27,7 @@
 ## 延伸學習
 
 - [Pandas讀寫MySQL資料庫](https://codertw.com/%E8%B3%87%E6%96%99%E5%BA%AB/16156/)
+- [使用Python從Mysql抓取每日股價資料與使用pandas進行分析](https://sites.google.com/site/zsgititit/home/python-cheng-shi-she-ji/shi-yongpython-congmysql-zhua-qu-mei-ri-gu-jia-zi-liao-yu-shi-yongpandas-jin-xing-fen-xi)
 
 ## 1_讀寫CSV檔案 
 - see 9.2 處理CSV及文字/表格格式的資料 
