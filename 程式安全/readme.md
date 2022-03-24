@@ -1,6 +1,6 @@
 ## 線上課程
 
-https://meet.google.com/hxt-wwdi-tfp
+https://meet.google.com/ctw-gdrf-smc
 
 
 # 開發環境下載
