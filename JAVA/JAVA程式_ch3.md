@@ -250,153 +250,165 @@ public class NestIf {
 }
 
 ```
+# 3.3 重複敘述
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+## for迴圈
+
+```java
+public class For {
+	public static void main(String[] args) {
+		int i;
+		int sum = 0;
+		for (i = 1; i <= 10; i++) {
+		    sum += i;
+		}
+		System.out.println("從1加到10的總和是: " + sum);
+		System.out.println("最後 i 值為: " + i);	
+	}
+}
+```
+## NestFor
+```java
+public class NestFor {
+	public static void main(String[] args) {
+		for (int y = 1; y <= 4; y++) {
+			for (int x = 1; x <= 16; x++) {
+				System.out.print("*");
+			}
+			System.out.println();	  // 換行
+		}
+	}
+}
+```
+## while迴圈
+
+```java
+import java.util.Scanner;
+public class Average {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		int score = 0;	// 輸入的分數預設為0
+		int sum = 0;	// 累計的總和
+		int num = 0;		   // 預設人數為0
+		while (score != -1) {
+			System.out.print("請輸入分數 (輸入-1結束):");
+			score = scn.nextInt();	// 讀取分數
+			if(score != -1) {
+		    	sum += score;		// 將輸入分數的加到總和sum中
+		    	num++;	// 人數加1        		
+			}
+		}
+		System.out.printf("平均分數 = " + (double)((sum+1) / (num-1)));
+		scn.close();
+	}
+}
+```
+
+## do~while迴圈
+
+```java
+import java.util.Scanner;
+public class DoWhile {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		int num, n, sum;
+		do {
+			System.out.print("請輸入1~15正整數來計算階乘值: ");
+			num = scn.nextInt();
+		} while (num < 1 || num > 15);
+		n = num;
+		sum = 1;
+		do {
+			sum *= n--;
+		} while (n > 0);
+		System.out.printf("%d! = %d %n", num, sum);
+		scn.close();
+	}
+}
+```
+
+# 3.4 分支敘述
+
+## break
+
+```java
+import java.util.Scanner;
+public class BreakFor {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		System.out.print("請輸入正整數：");
+		int num= scn.nextInt();
+		boolean prm = true;  	// 預設prm為true，表為質數
+		for (int i = 2; i < num; i++) {
+			if (num % i == 0) {
+				prm = false;      // 設prm為false，表不是質數
+				break;	// 離開for迴圈
+			}
+		}
+		if (prm == true) 
+			System.out.printf("%d 是質數", num);
+		else
+			System.out.printf("%d 不是質數", num);
+		scn.close();
+	}
+}
+```
+
+## continue
+
+```java
+public class Continue {
+	public static void main(String[] args) {
+		for (int i = 0; i <= 10; i++) {
+			if (i % 2 == 0)
+				continue;
+			System.out.print(i + ", ");
+		}
+	}
+}
+```
+
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
+
 ```java
 
 ```
 
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
-```java
 
-```
-
-- 3-1程式範例說明
-  - [1]
-  - [2]
-  - [3]
-  - [4]
-  - [5]
-  - [6]
-  - [7]
-  - [8]
-  - [9]
-  - [10]
 ```java
 
 ```
