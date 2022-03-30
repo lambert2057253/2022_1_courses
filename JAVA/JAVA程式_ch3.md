@@ -333,7 +333,12 @@ public class DoWhile {
 	}
 }
 ```
+```
 
+sum *= n--;
+   == >  sum = sum*n;
+         n = n-1;
+```
 # 3.4 分支敘述
 
 ## break
