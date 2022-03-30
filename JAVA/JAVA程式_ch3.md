@@ -7,11 +7,13 @@
   - if…else if…else 多選一 多重判斷式
   - 巢狀式if選擇結構
   - switch多重選擇敘述
-
 3.3 重複敘述
-
+  for迴圈
+  while迴圈
+  do~while迴圈
 3.4 分支敘述
-
+  break
+  continue
 ```
 
 ## 選擇敘述
