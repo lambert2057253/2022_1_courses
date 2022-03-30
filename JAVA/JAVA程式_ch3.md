@@ -305,11 +305,14 @@ public class Average {
 		    	num++;	// 人數加1        		
 			}
 		}
-		System.out.printf("平均分數 = " + (double)((sum+1) / (num-1)));
+		System.out.printf("平均分數 = " + (double)((sum) / (num)));
 		scn.close();
 	}
 }
 ```
+```
+80 90 55 == > 75
+``` 
 
 ## do~while迴圈
 
