@@ -3,7 +3,11 @@
 https://meet.google.com/rbx-csan-xkc
 
 
+## 資安演講公告
 
+工業控制系統之防禦IDS偵測及ATT&CK攻擊實務 報名表：
+
+https://docs.google.com/forms/d/e/1FAIpQLSc5KWH61f3RzlNMdOoeJc9vD9S_vtQd3s3tTQeNmydZsx3CJQ/viewform
 
 ## 本課程學習核心: 
 
