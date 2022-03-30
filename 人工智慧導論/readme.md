@@ -9,6 +9,10 @@ https://meet.google.com/rbx-csan-xkc
 
 https://docs.google.com/forms/d/e/1FAIpQLSc5KWH61f3RzlNMdOoeJc9vD9S_vtQd3s3tTQeNmydZsx3CJQ/viewform
 
+![0427報名表 (1)](0427報名表 (1).png)
+
+![0427海報.png](0427海報.png)
+
 ## 本課程學習核心: 
 
 - python 基本技術
