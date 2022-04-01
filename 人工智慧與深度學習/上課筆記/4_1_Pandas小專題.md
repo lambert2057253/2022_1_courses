@@ -19,7 +19,7 @@ Chapter 15：歷史股價分析
 15.12 計算股票波動率
 15.13 決定風險相對於期望報酬率的關係
 ```
-##
+## 15.1 設定IPython筆記本
 ```python
 # Commented out IPython magic to ensure Python compatibility.
 # import numpy and pandas
@@ -39,12 +39,12 @@ pd.set_option('display.width', 60)
 # bring in matplotlib for graphics
 import matplotlib.pyplot as plt
 # %matplotlib inline
-
 ```
 ## 要先更新版本
 
 !pip install --upgrade pandas-datareader
 
+## 15.2 從Google取得與組織股票資料
 ```
 # import data reader package
 import pandas_datareader as pdr
@@ -86,7 +86,9 @@ raw = get_data_for_multiple_stocks(
 
 # take a peek at the data for MSFT
 raw['MSFT'][:5]
-
+```
+## 15.3 繪製股價時間序列的圖
+```
 # given the dictionary of data frames,
 # pivots a given column into values with column
 # names being the stock symbols
@@ -113,7 +115,9 @@ close_px = pivot_tickers_to_columns(raw, "Close")
 # peek at the result
 close_px[:5]
 
-"""# Plotting time-series prices"""
+```
+## Plotting time-series prices
+```
 
 # plot the closing prices of AAPL
 close_px['AAPL'].plot();
@@ -124,8 +128,9 @@ close_px['MSFT'].plot();
 # plot MSFT vs AAPL on the same chart
 close_px[['MSFT', 'AAPL']].plot();
 
-"""# Plotting volume series data"""
-
+```
+## Plotting volume series data
+```
 # pivot the volume data into columns
 volumes = pivot_tickers_to_columns(raw, "Volume")
 volumes.tail()
@@ -148,9 +153,10 @@ bottom.bar(msft_volume.index, msft_volume['MSFT'])
 plt.title('Microsoft Trading Volume 2012 - 2014')
 plt.subplots_adjust(hspace=0.75)
 plt.gcf().set_size_inches(15,8)
+```
 
-"""# Calculating simple daily percentage change"""
-
+## Calculating simple daily percentage change
+```
 # calculate daily percentage change
 daily_pc = close_px / close_px.shift(1) - 1
 daily_pc[:5]
