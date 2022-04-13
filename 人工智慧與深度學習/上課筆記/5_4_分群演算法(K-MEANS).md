@@ -1,6 +1,97 @@
-#
+## 參考書籍1
 
-## 參考書籍
+- [打下最紮實的AI基礎 : 從scikit-learn一步一腳印](http://www.deepstone.com.tw/list/0k021138569711077474?qcat=0J205202539029950624)
+  - Chapter 11 k-平均值演算法
+### ok
+```python
+# -*- coding: utf-8 -*-
+
+# Commented out IPython magic to ensure Python compatibility.
+# %matplotlib inline
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+from sklearn.datasets import make_blobs
+
+X, y = make_blobs(n_samples=200,
+                  n_features=2,
+                  centers=4,
+                  cluster_std=1,
+                  center_box=(-10.0, 10.0),
+                  shuffle=True,
+                  random_state=1);
+
+plt.figure(figsize=(6,4), dpi=144)
+plt.xticks(())
+plt.yticks(())
+plt.scatter(X[:, 0], X[:, 1], s=20, marker='o');
+
+from sklearn.cluster import KMeans
+
+n_clusters = 3
+kmean = KMeans(n_clusters=n_clusters)
+kmean.fit(X);
+print("kmean: k={}, cost={}".format(n_clusters, int(kmean.score(X))))
+
+labels = kmean.labels_
+centers = kmean.cluster_centers_
+markers = ['o', '^', '*']
+colors = ['r', 'b', 'y']
+
+plt.figure(figsize=(6,4), dpi=144)
+plt.xticks(())
+plt.yticks(())
+
+# 畫樣本
+for c in range(n_clusters):
+    cluster = X[labels == c]
+    plt.scatter(cluster[:, 0], cluster[:, 1], 
+                marker=markers[c], s=20, c=colors[c])
+# 畫出中心點
+plt.scatter(centers[:, 0], centers[:, 1],
+            marker='o', c="white", alpha=0.9, s=300)
+for i, c in enumerate(centers):
+    plt.scatter(c[0], c[1], marker='$%d$' % i, s=50, c=colors[i])
+
+def fit_plot_kmean_model(n_clusters, X):
+    plt.xticks(())
+    plt.yticks(())
+
+    # 使用 k-均值演算法進行擬合
+    kmean = KMeans(n_clusters=n_clusters)
+    kmean.fit_predict(X)
+
+    labels = kmean.labels_
+    centers = kmean.cluster_centers_
+    markers = ['o', '^', '*', 's']
+    colors = ['r', 'b', 'y', 'k']
+
+    # 計算成本
+    score = kmean.score(X)
+    plt.title("k={}, score={}".format(n_clusters, (int)(score)))
+
+    # 畫樣本
+    for c in range(n_clusters):
+        cluster = X[labels == c]
+        plt.scatter(cluster[:, 0], cluster[:, 1], 
+                    marker=markers[c], s=20, c=colors[c])
+    # 畫出中心點
+    plt.scatter(centers[:, 0], centers[:, 1],
+                marker='o', c="white", alpha=0.9, s=300)
+    for i, c in enumerate(centers):
+        plt.scatter(c[0], c[1], marker='$%d$' % i, s=50, c=colors[i])
+
+from sklearn.cluster import KMeans
+
+n_clusters = [2, 3, 4]
+
+plt.figure(figsize=(10, 3), dpi=144)
+for i, c in enumerate(n_clusters):
+    plt.subplot(1, 3, i + 1)
+    fit_plot_kmean_model(c, X)
+```
+## 參考書籍2
 ```
 scikit-learn 新手的晉級：實作各種機器學習解決方案
 
